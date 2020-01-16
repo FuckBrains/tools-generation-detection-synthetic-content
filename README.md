@@ -34,7 +34,7 @@
 * [Neural Text Generation in Stories Using Entity Representations as Context](https://homes.cs.washington.edu/~eaclark7/www/naacl2018.pdf)
 * [DeepTingle](https://arxiv.org/pdf/1705.03557.pdf)
 
-#### Awesome
+#### 😎 Awesome
 
 * [awesome-text-generation](https://github.com/ChenChengKuan/awesome-text-generation)
 
@@ -155,6 +155,6 @@
 * [Protecting World Leaders Against Deep Fakes](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
 * [CAPSULE-FORENSICS: USING CAPSULE NETWORKS TO DETECT FORGED IMAGES AND VIDEOS](https://arxiv.org/pdf/1810.11215.pdf)
 
-#### Awesome
+#### 😎 Awesome
 
 * [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
