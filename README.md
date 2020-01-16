@@ -3,15 +3,15 @@
 ## 🔖 Table of contents
 
 * [Generation of synthetic content](#generation-of-synthetic-content)
-  * [Text](#generation-text)
-  * [Audio](#generation-audio)
-  * [Images](#generation-images)
-  * [Video](#generation-videos)
+  * [🔤 Text](#generation-text)
+  * [🔊 Audio](#generation-audio)
+  * [📷 Images](#generation-images)
+  * [🎥Video](#generation-videos)
 * [Detection of synthetic content](#detection-of-synthetic-content)
-  * [Text](#generation-text)
-  * [Audio](#generation-audio)
-  * [Images](#generation-images)
-  * [Video](#generation-videos)
+  * [🔤 Text](#generation-text)
+  * [🔊 Audio](#generation-audio)
+  * [📷 Images](#generation-images)
+  * [🎥 Video](#generation-videos)
 
 ## Generation of synthetic content
 
