@@ -132,7 +132,7 @@
 
 | Name | Description | Demo | Popularity |
 | ---------- | :---------- | :---------- | :----------: |
-| [FALdetector](https://github.com/peterwang512/FALdetector) | Detecting Photoshopped Faces by Scripting Photoshop. | N/A| [![stars](https://badgen.net/github/stars/peterwang512/FALdetector)](https://github.com/peterwang512/FALdetector)|
+| [FALdetector](https://github.com/peterwang512/FALdetector) | Detecting Photoshopped Faces by Scripting Photoshop. | https://www.youtube.com/watch?v=TUootD36Xm0 | [![stars](https://badgen.net/github/stars/peterwang512/FALdetector)](https://github.com/peterwang512/FALdetector)|
 
 #### 📃 Papers 📃
 
