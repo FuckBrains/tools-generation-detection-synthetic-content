@@ -84,7 +84,7 @@
 [Face2Face](https://github.com/datitran/face2face-demo) | FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos. | N/A | [![stars](https://badgen.net/github/stars/datitran/face2face-demo)](https://github.com/datitran/face2face-demo) |
 [Faceswap](https://github.com/MarekKowalski/FaceSwap) | FaceSwap is an app that I have originally created as an exercise for my students in "Mathematics in Multimedia" on the Warsaw University of Technology. | N/A | [![stars](https://badgen.net/github/stars/MarekKowalski/FaceSwap)](https://github.com/MarekKowalski/FaceSwap) |
 [Faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN) | Adding Adversarial loss and perceptual loss (VGGface) to deepfakes'(reddit user) auto-encoder architecture. | https://github.com/shaoanlu/faceswap-GAN/blob/master/colab_demo/faceswap-GAN_colab_demo.ipynb | [![stars](https://badgen.net/github/stars/shaoanlu/faceswap-GAN)](https://github.com/shaoanlu/faceswap-GAN) |
-[DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. | https://www.youtube.com/watch?v=um7q--QEkg4 | [![stars](https://badgen.net/github/stars/iperov/DeepFaceLab)](https://github.com/iperov/DeepFaceLab)
+[DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. | https://www.youtube.com/watch?v=um7q--QEkg4 | [![stars](https://badgen.net/github/stars/iperov/DeepFaceLab)](https://github.com/iperov/DeepFaceLab)|
 
 
 
@@ -156,6 +156,7 @@
 | ---------- | :---------- | :---------- | :----------: |
 | [FaceForensics++](https://github.com/ondyari/FaceForensics) | FaceForensics++ is a forensics dataset consisting of 1000 original video sequences that have been manipulated with four automated face manipulation methods: Deepfakes, Face2Face, FaceSwap and NeuralTextures. | https://www.youtube.com/watch?v=x2g48Q2I2ZQ | [![stars](https://badgen.net/github/stars/ondyari/FaceForensics)](https://github.com/ondyari/FaceForensics)|
 | [Face Artifacts](https://github.com/danmohaha/CVPRW2019_Face_Artifacts) | Our method is based on the observations that current DeepFake algorithm can only generate images of limited resolutions, which need to be further warped to match the original faces in the source video. | N/A | [![stars](https://badgen.net/github/stars/danmohaha/CVPRW2019_Face_Artifacts)](https://github.com/danmohaha/CVPRW2019_Face_Artifacts)|
+[DeepFake-Detection](https://github.com/dessa-public/DeepFake-Detection) | Our Pytorch implementation, conducts extensive experiments to demonstrate that the datasets produced by Google and detailed in the FaceForensics++ paper are not sufficient for making neural networks generalize to detect real-life face manipulation techniques. | http://deepfake-detection.dessa.com/projects | [![stars](https://badgen.net/github/stars/dessa-public/DeepFake-Detection)](https://github.com/dessa-public/DeepFake-Detection)|
 
 
 #### 📃 Papers 📃
