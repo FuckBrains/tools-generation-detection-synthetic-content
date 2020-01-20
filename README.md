@@ -195,4 +195,4 @@
 
 ## Logo
 
-* Made with draw.io.
+* Made with [draw.io](draw.io).
