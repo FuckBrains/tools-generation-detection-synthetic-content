@@ -1,6 +1,11 @@
 # Tools for generating and detecting synthetic content
 
+<p align="center">
+  <img src="logo.png" />
+</p>
+
 ## 🔖 Table of contents
+
 
 * [Generation of synthetic content](#generation-of-synthetic-content)
   * [🔤 Text](#generation-text)
@@ -172,6 +177,15 @@
 #### 😎 Awesome 😎
 
 * [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Miguel000"><img src="https://avatars2.githubusercontent.com/u/13256426?s=460&v=4" width="150;" alt=""/><br /><sub><b>Miguel Hernández</b></sub></a></td>
+    <td align="center"><a href="https://github.com/jiep"><img src="https://avatars2.githubusercontent.com/u/414463?s=460&v=4" width="150px;" alt=""/><br /><sub><b>José Ignacio Escribano</b></sub></a></td>
+  </tr>
+</table>
 
 ## License
 
