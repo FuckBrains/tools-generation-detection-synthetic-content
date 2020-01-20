@@ -101,11 +101,11 @@
 
 #### 🌐 Webs 🌐
 
-* https://mrdeepfakes.com/forums/
-* https://www.deepfaker.xyz/
-* https://deepfakesapp.online/
-* https://deep-fakes.net/
-* https://faceswap.dev/
+* [MrDeepFake Forums](https://mrdeepfakes.com/forums/) 🔞
+* [DeepFake中文网](https://www.deepfaker.xyz/) :cn:
+* [Website for creating deepfake videos with learning](https://deepfakesapp.online/)
+* [Deep Fakes Net - Deepfakes Network](https://deep-fakes.net/)
+* [Faceswap is the leading free and Open Source multi-platform Deepfakes software](https://faceswap.dev/)
 
 ## Detection of synthetic content
 
@@ -122,7 +122,7 @@
 
 * [GLTR: Statistical Detection and Visualization of Generated Text](https://arxiv.org/pdf/1906.04043.pdf)
 * [Human and Automatic Detection of Generated Text](https://arxiv.org/pdf/1911.00650.pdf)
-* [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://arxiv.org/pdf/1909.05858.pdf)
+* [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/pdf/1909.05858.pdf)
 
 ### Detection Audio
 
@@ -172,7 +172,7 @@
 * [Deepfake Video Detection Using Recurrent Neural Networks](https://engineering.purdue.edu/~dgueraco/content/deepfake.pdf)
 * [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/pdf/1909.11573.pdf)
 * [Protecting World Leaders Against Deep Fakes](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
-* [CAPSULE-FORENSICS: USING CAPSULE NETWORKS TO DETECT FORGED IMAGES AND VIDEOS](https://arxiv.org/pdf/1810.11215.pdf)
+* [Capsule-Forensics: Using Capsule Networks to Detect Forged Images and Videos](https://arxiv.org/pdf/1810.11215.pdf)
 
 #### 😎 Awesome 😎
 
