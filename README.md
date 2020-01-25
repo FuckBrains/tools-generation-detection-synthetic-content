@@ -11,7 +11,7 @@
   * [🔤 Text](#generation-text)
   * [🔊 Audio](#generation-audio)
   * [📷 Images](#generation-images)
-  * [🎥Video](#generation-videos)
+  * [🎥 Video](#generation-videos)
 * [Detection of synthetic content](#detection-of-synthetic-content)
   * [🔤 Text](#generation-text)
   * [🔊 Audio](#generation-audio)
@@ -164,6 +164,8 @@
 | [FaceForensics++](https://github.com/ondyari/FaceForensics) | FaceForensics++ is a forensics dataset consisting of 1000 original video sequences that have been manipulated with four automated face manipulation methods: Deepfakes, Face2Face, FaceSwap and NeuralTextures. | https://www.youtube.com/watch?v=x2g48Q2I2ZQ | [![stars](https://badgen.net/github/stars/ondyari/FaceForensics)](https://github.com/ondyari/FaceForensics)|
 | [Face Artifacts](https://github.com/danmohaha/CVPRW2019_Face_Artifacts) | Our method is based on the observations that current DeepFake algorithm can only generate images of limited resolutions, which need to be further warped to match the original faces in the source video. | N/A | [![stars](https://badgen.net/github/stars/danmohaha/CVPRW2019_Face_Artifacts)](https://github.com/danmohaha/CVPRW2019_Face_Artifacts)|
 [DeepFake-Detection](https://github.com/dessa-public/DeepFake-Detection) | Our Pytorch implementation, conducts extensive experiments to demonstrate that the datasets produced by Google and detailed in the FaceForensics++ paper are not sufficient for making neural networks generalize to detect real-life face manipulation techniques. | http://deepfake-detection.dessa.com/projects | [![stars](https://badgen.net/github/stars/dessa-public/DeepFake-Detection)](https://github.com/dessa-public/DeepFake-Detection)|
+| [fakeVideoForensics](https://github.com/next-security-lab/fakeVideoForensics) | Fake video detector | https://www.youtube.com/watch?v=8YYRT4lzQgY | [![stars](https://badgen.net/github/stars/next-security-lab/fakeVideoForensics)](https://github.com/next-security-lab/fakeVideoForensics)
+
 
 
 #### 📃 Papers 📃
