@@ -17,6 +17,8 @@
   * [🔊 Audio](#generation-audio)
   * [📷 Images](#generation-images)
   * [🎥 Video](#generation-videos)
+* [Talks](#talks)
+* [Forums](#forums)
 
 ## Generation of synthetic content
 
@@ -80,6 +82,7 @@
 * [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
 * [Complement Face Forensic Detection and Localization with Facial Landmarks](https://arxiv.org/pdf/1910.05455.pdf)
 * [Joint Discriminative and Generative Learning for Person Re-identification](https://arxiv.org/pdf/1904.07223.pdf)
+* [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/pdf/1911.11544.pdf)
 
 ### Generation Videos
 
@@ -179,6 +182,16 @@
 #### 😎 Awesome 😎
 
 * [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
+
+## Talks
+
+* [ICML 2019 Synthetic Realities](https://sites.google.com/view/audiovisualfakes-icml2019/)
+* [CCN-CERT: Automatizando la detección de contenido Deep Fake](https://www.youtube.com/watch?v=ist4Za3C2DY)
+
+## Forums
+
+* [Reddit: MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
+* [Reddit: Digital Manipulation](https://www.reddit.com/r/Digital_Manipulation/)
 
 ## Contributors
 
