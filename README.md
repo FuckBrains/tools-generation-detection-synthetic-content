@@ -18,9 +18,11 @@
   * [📷 Images](#generation-images)
   * [🎥 Video](#generation-videos)
 * [Misc](#misc)
-  * [Talks](#talks)
-  * [Forums](#forums)
   * [Articles](#articles)
+  * [Talks](#talks)
+  * [Challenges](#challenges)
+  * [Forums](#forums)
+
 
 ## Generation of synthetic content
 
@@ -180,6 +182,9 @@
 * [Protecting World Leaders Against Deep Fakes](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
 * [Capsule-Forensics: Using Capsule Networks to Detect Forged Images and Videos](https://arxiv.org/pdf/1810.11215.pdf)
 * [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
+* [Media Forensics and DeepFakes:
+an overview](https://arxiv.org/pdf/2001.06564.pdf)
+* [Everybody’s Talkin’: Let Me Talk as You Want](https://arxiv.org/pdf/2001.05201.pdf)
 
 #### 😎 Awesome 😎
 
