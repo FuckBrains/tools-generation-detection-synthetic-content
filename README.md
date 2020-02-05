@@ -17,8 +17,10 @@
   * [🔊 Audio](#generation-audio)
   * [📷 Images](#generation-images)
   * [🎥 Video](#generation-videos)
-* [Talks](#talks)
-* [Forums](#forums)
+* [Misc](#misc)
+  * [Talks](#talks)
+  * [Forums](#forums)
+  * [Articles](#articles)
 
 ## Generation of synthetic content
 
@@ -106,7 +108,6 @@
 
 #### 🌐 Webs 🌐
 
-* [MrDeepFake Forums](https://mrdeepfakes.com/forums/) 🔞
 * [DeepFake中文网](https://www.deepfaker.xyz/) :cn:
 * [Website for creating deepfake videos with learning](https://deepfakesapp.online/)
 * [Deep Fakes Net - Deepfakes Network](https://deep-fakes.net/)
@@ -178,20 +179,37 @@
 * [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/pdf/1909.11573.pdf)
 * [Protecting World Leaders Against Deep Fakes](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
 * [Capsule-Forensics: Using Capsule Networks to Detect Forged Images and Videos](https://arxiv.org/pdf/1810.11215.pdf)
+* [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
 
 #### 😎 Awesome 😎
 
 * [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
 
-## Talks
+## Misc
+
+### Articles
+
+* [2020 Guide to Synthetic Media](https://blog.paperspace.com/2020-guide-to-synthetic-media/)
+* [Machine Learning Experiments](https://www.linkedin.com/posts/thiago-porto-24004ba8_machinelearning-experiments-deeplearning-ugcPost-6625473356533649408-sl9v/)
+
+### Talks
 
 * [ICML 2019 Synthetic Realities](https://sites.google.com/view/audiovisualfakes-icml2019/)
-* [CCN-CERT: Automatizando la detección de contenido Deep Fake](https://www.youtube.com/watch?v=ist4Za3C2DY)
+* [CCN-CERT: Automatizando la detección de contenido Deep Fake](https://www.youtube.com/watch?v=ist4Za3C2DY) :es:
 
-## Forums
+### Challenges
+
+* [NIST: Media Forensics Challenge 2019](https://www.nist.gov/itl/iad/mig/media-forensics-challenge-2019-0)
+* [ASVspoof: Automatic Speaker Verification](https://www.asvspoof.org/)
+* [Kaggle: DeepFake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
+* [Fake News Challenge](http://www.fakenewschallenge.org/)
+* [Xente: Fraud detection challenge](https://zindi.africa/competitions/xente-fraud-detection-challenge)
+
+### Forums
 
 * [Reddit: MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
 * [Reddit: Digital Manipulation](https://www.reddit.com/r/Digital_Manipulation/)
+* [MrDeepFake Forums](https://mrdeepfakes.com/forums/) 🔞
 
 ## Contributors
 
