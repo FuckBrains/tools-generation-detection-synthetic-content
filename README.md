@@ -17,6 +17,12 @@
   * [🔊 Audio](#generation-audio)
   * [📷 Images](#generation-images)
   * [🎥 Video](#generation-videos)
+* [Misc](#misc)
+  * [Articles](#articles)
+  * [Talks](#talks)
+  * [Challenges](#challenges)
+  * [Forums](#forums)
+
 
 ## Generation of synthetic content
 
@@ -80,6 +86,7 @@
 * [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
 * [Complement Face Forensic Detection and Localization with Facial Landmarks](https://arxiv.org/pdf/1910.05455.pdf)
 * [Joint Discriminative and Generative Learning for Person Re-identification](https://arxiv.org/pdf/1904.07223.pdf)
+* [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/pdf/1911.11544.pdf)
 
 ### Generation Videos
 
@@ -103,7 +110,6 @@
 
 #### 🌐 Webs 🌐
 
-* [MrDeepFake Forums](https://mrdeepfakes.com/forums/) 🔞
 * [DeepFake中文网](https://www.deepfaker.xyz/) :cn:
 * [Website for creating deepfake videos with learning](https://deepfakesapp.online/)
 * [Deep Fakes Net - Deepfakes Network](https://deep-fakes.net/)
@@ -164,8 +170,9 @@
 | [FaceForensics++](https://github.com/ondyari/FaceForensics) | FaceForensics++ is a forensics dataset consisting of 1000 original video sequences that have been manipulated with four automated face manipulation methods: Deepfakes, Face2Face, FaceSwap and NeuralTextures. | https://www.youtube.com/watch?v=x2g48Q2I2ZQ | [![stars](https://badgen.net/github/stars/ondyari/FaceForensics)](https://github.com/ondyari/FaceForensics)|
 | [Face Artifacts](https://github.com/danmohaha/CVPRW2019_Face_Artifacts) | Our method is based on the observations that current DeepFake algorithm can only generate images of limited resolutions, which need to be further warped to match the original faces in the source video. | N/A | [![stars](https://badgen.net/github/stars/danmohaha/CVPRW2019_Face_Artifacts)](https://github.com/danmohaha/CVPRW2019_Face_Artifacts)|
 [DeepFake-Detection](https://github.com/dessa-public/DeepFake-Detection) | Our Pytorch implementation, conducts extensive experiments to demonstrate that the datasets produced by Google and detailed in the FaceForensics++ paper are not sufficient for making neural networks generalize to detect real-life face manipulation techniques. | http://deepfake-detection.dessa.com/projects | [![stars](https://badgen.net/github/stars/dessa-public/DeepFake-Detection)](https://github.com/dessa-public/DeepFake-Detection)|
+[Capsule-Forensics-v2](https://github.com/nii-yamagishilab/Capsule-Forensics-v2) | Implementation of the paper: Use of a Capsule Network to Detect Fake Images and Videos. | N/A | [![stars](https://badgen.net/github/stars/nii-yamagishilab/Capsule-Forensics-v2)](https://github.com/nii-yamagishilab/Capsule-Forensics-v2)|
+[ClassNSeg](https://github.com/nii-yamagishilab/ClassNSeg) | Implementation of the paper: Multi-task Learning for Detecting and Segmenting Manipulated Facial Images and Videos (BTAS 2019). | N/A | [![stars](https://badgen.net/github/stars/nii-yamagishilab/ClassNSeg)](https://github.com/nii-yamagishilab/ClassNSeg)|
 | [fakeVideoForensics](https://github.com/next-security-lab/fakeVideoForensics) | Fake video detector | https://www.youtube.com/watch?v=8YYRT4lzQgY | [![stars](https://badgen.net/github/stars/next-security-lab/fakeVideoForensics)](https://github.com/next-security-lab/fakeVideoForensics)
-
 
 
 #### 📃 Papers 📃
@@ -177,10 +184,45 @@
 * [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/pdf/1909.11573.pdf)
 * [Protecting World Leaders Against Deep Fakes](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
 * [Capsule-Forensics: Using Capsule Networks to Detect Forged Images and Videos](https://arxiv.org/pdf/1810.11215.pdf)
+* [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
+* [Media Forensics and DeepFakes:
+an overview](https://arxiv.org/pdf/2001.06564.pdf)
+* [Everybody’s Talkin’: Let Me Talk as You Want](https://arxiv.org/pdf/2001.05201.pdf)
+* [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/pdf/1908.05932.pdf)
+* [Celeb-DF (v2): A New Dataset for DeepFake Forensics](https://arxiv.org/pdf/1909.12962.pdf)
+* [Deepfake Video Detection through Optical Flow based CNN](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)
+* [MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/pdf/1809.00888.pdf)
 
 #### 😎 Awesome 😎
 
 * [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
+
+## Misc
+
+### Articles
+
+* [2020 Guide to Synthetic Media](https://blog.paperspace.com/2020-guide-to-synthetic-media/)
+* [Machine Learning Experiments](https://www.linkedin.com/posts/thiago-porto-24004ba8_machinelearning-experiments-deeplearning-ugcPost-6625473356533649408-sl9v/)
+* [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html)
+
+### Talks
+
+* [ICML 2019 Synthetic Realities](https://sites.google.com/view/audiovisualfakes-icml2019/)
+* [CCN-CERT: Automatizando la detección de contenido Deep Fake](https://www.youtube.com/watch?v=ist4Za3C2DY) :es:
+
+### Challenges
+
+* [NIST: Media Forensics Challenge 2019](https://www.nist.gov/itl/iad/mig/media-forensics-challenge-2019-0)
+* [ASVspoof: Automatic Speaker Verification](https://www.asvspoof.org/)
+* [Kaggle: DeepFake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
+* [Fake News Challenge](http://www.fakenewschallenge.org/)
+* [Xente: Fraud detection challenge](https://zindi.africa/competitions/xente-fraud-detection-challenge)
+
+### Forums
+
+* [Reddit: MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
+* [Reddit: Digital Manipulation](https://www.reddit.com/r/Digital_Manipulation/)
+* [MrDeepFake Forums](https://mrdeepfakes.com/forums/) 🔞
 
 ## Contributors
 
