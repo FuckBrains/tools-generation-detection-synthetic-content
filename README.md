@@ -170,6 +170,8 @@
 | [FaceForensics++](https://github.com/ondyari/FaceForensics) | FaceForensics++ is a forensics dataset consisting of 1000 original video sequences that have been manipulated with four automated face manipulation methods: Deepfakes, Face2Face, FaceSwap and NeuralTextures. | https://www.youtube.com/watch?v=x2g48Q2I2ZQ | [![stars](https://badgen.net/github/stars/ondyari/FaceForensics)](https://github.com/ondyari/FaceForensics)|
 | [Face Artifacts](https://github.com/danmohaha/CVPRW2019_Face_Artifacts) | Our method is based on the observations that current DeepFake algorithm can only generate images of limited resolutions, which need to be further warped to match the original faces in the source video. | N/A | [![stars](https://badgen.net/github/stars/danmohaha/CVPRW2019_Face_Artifacts)](https://github.com/danmohaha/CVPRW2019_Face_Artifacts)|
 [DeepFake-Detection](https://github.com/dessa-public/DeepFake-Detection) | Our Pytorch implementation, conducts extensive experiments to demonstrate that the datasets produced by Google and detailed in the FaceForensics++ paper are not sufficient for making neural networks generalize to detect real-life face manipulation techniques. | http://deepfake-detection.dessa.com/projects | [![stars](https://badgen.net/github/stars/dessa-public/DeepFake-Detection)](https://github.com/dessa-public/DeepFake-Detection)|
+[Capsule-Forensics-v2](https://github.com/nii-yamagishilab/Capsule-Forensics-v2) | Implementation of the paper: Use of a Capsule Network to Detect Fake Images and Videos. | N/A | [![stars](https://badgen.net/github/stars/nii-yamagishilab/Capsule-Forensics-v2)](https://github.com/nii-yamagishilab/Capsule-Forensics-v2)|
+[ClassNSeg](https://github.com/nii-yamagishilab/ClassNSeg) | Implementation of the paper: Multi-task Learning for Detecting and Segmenting Manipulated Facial Images and Videos (BTAS 2019). | N/A | [![stars](https://badgen.net/github/stars/nii-yamagishilab/ClassNSeg)](https://github.com/nii-yamagishilab/ClassNSeg)|
 
 
 #### 📃 Papers 📃
@@ -185,6 +187,10 @@
 * [Media Forensics and DeepFakes:
 an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Everybody’s Talkin’: Let Me Talk as You Want](https://arxiv.org/pdf/2001.05201.pdf)
+* [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/pdf/1908.05932.pdf)
+* [Celeb-DF (v2): A New Dataset for DeepFake Forensics](https://arxiv.org/pdf/1909.12962.pdf)
+* [Deepfake Video Detection through Optical Flow based CNN](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)
+* [MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/pdf/1809.00888.pdf)
 
 #### 😎 Awesome 😎
 
@@ -196,6 +202,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 
 * [2020 Guide to Synthetic Media](https://blog.paperspace.com/2020-guide-to-synthetic-media/)
 * [Machine Learning Experiments](https://www.linkedin.com/posts/thiago-porto-24004ba8_machinelearning-experiments-deeplearning-ugcPost-6625473356533649408-sl9v/)
+* [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html)
 
 ### Talks
 
