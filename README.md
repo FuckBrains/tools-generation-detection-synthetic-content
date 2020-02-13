@@ -37,6 +37,7 @@
 [CTRL](https://github.com/salesforce/ctrl) | Conditional Transformer Language Model for Controllable Generation | N/A | [![stars](https://badgen.net/github/stars/salesforce/ctrl)](https://github.com/salesforce/ctrl) |
 [Talk to Transformer](https://talktotransformer.com/) | See how a modern neural network completes your text. Type a custom snippet or try one of the examples | https://talktotransformer.com | N/A |
 [LEO](http://leoia.es) | First intelligent system for creating news in Spanish | N/A | N/A
+[Big Bird](https://bigbird.dev/) | Bird Bird uses State of the Art (SOTA) Natural Language Processing to aid your fact-checked and substantive content. | [BigBirdDemo](https://run.bigbird.dev/auth/login)| N/A
 
 #### 📃 Papers 📃
 
@@ -44,6 +45,10 @@
 * [Automatic Conditional Generation of Personalized Social Media Short Texts ](https://arxiv.org/pdf/1906.09324.pdf)
 * [Neural Text Generation in Stories Using Entity Representations as Context](https://homes.cs.washington.edu/~eaclark7/www/naacl2018.pdf)
 * [DeepTingle](https://arxiv.org/pdf/1705.03557.pdf)
+
+#### 🌐 Webs 🌐
+
+* [NotRealNews](https://notrealnews.net/)
 
 #### 😎 Awesome 😎
 
