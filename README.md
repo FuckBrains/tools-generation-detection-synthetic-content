@@ -130,6 +130,7 @@
 | ---------- | :---------- | :---------- | :----------: |
 | [Grover](https://github.com/rowanz/grover) | Grover is a model for Neural Fake News -- both generation and detection. However, it probably can also be used for other generation tasks. | [https://grover.allenai.org/](https://grover.allenai.org/) | [![stars](https://badgen.net/github/stars/rowanz/grover)](https://github.com/rowanz/grover)|
 [GLTR](https://github.com/HendrikStrobelt/detecting-fake-text) | Detecting text that was generated from large language models (e.g. GPT-2). | http://gltr.io/dist/index.html | [![stars](https://badgen.net/github/stars/HendrikStrobelt/detecting-fake-text)](https://github.com/HendrikStrobelt/detecting-fake-text) |
+[fake news detection](https://github.com/nguyenvo09/fake_news_detection_deep_learning) | In this project, we aim to build state-of-the-art deep learning models to detect fake news based on the content of article itself. | [Demo](https://github.com/nguyenvo09/fake_news_detection_deep_learning/blob/master/biGRU_attention.ipynb) | [![stars](https://badgen.net/github/stars/nguyenvo09/fake_news_detection_deep_learning)](https://github.com/nguyenvo09/fake_news_detection_deep_learning) |
 
 #### 📃 Papers 📃
 
