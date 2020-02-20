@@ -224,6 +224,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [2020 Guide to Synthetic Media](https://blog.paperspace.com/2020-guide-to-synthetic-media/)
 * [Machine Learning Experiments](https://www.linkedin.com/posts/thiago-porto-24004ba8_machinelearning-experiments-deeplearning-ugcPost-6625473356533649408-sl9v/)
 * [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html)
+* [Contenido Sintético (parte I): generación y detección de audio y texto](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-i-generacion-y-deteccion-de-audio-y-texto/) :es:
 
 ### Talks
 
@@ -243,6 +244,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Reddit: MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
 * [Reddit: Digital Manipulation](https://www.reddit.com/r/Digital_Manipulation/)
 * [MrDeepFake Forums](https://mrdeepfakes.com/forums/) 🔞
+* [AIVillage](aivillage.slack.com)
 
 ## Contributors
 
