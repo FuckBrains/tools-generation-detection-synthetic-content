@@ -230,6 +230,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 
 * [ICML 2019 Synthetic Realities](https://sites.google.com/view/audiovisualfakes-icml2019/)
 * [CCN-CERT: Automatizando la detección de contenido Deep Fake](https://www.youtube.com/watch?v=ist4Za3C2DY) :es:
+* [TED Talk: Fake videos of real people](https://www.youtube.com/watch?v=o2DDU4g0PRo)
 
 ### Challenges
 
