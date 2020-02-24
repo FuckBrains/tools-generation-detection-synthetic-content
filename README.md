@@ -69,6 +69,7 @@
 [Descrypt](https://www.descript.com/) | Record. Transcribe. Edit. Mix. As easy as typing. | N/A | N/A
 [Common Voice](https://voice.mozilla.org/en) | Common Voice is Mozilla's initiative to help teach machines how real people speak. | N/A | N/A
 [Resemble.ai](https://www.resemble.ai/) | Resemble can clone any voice so it sounds like a real human. | N/A | N/A
+[TacoTron](https://google.github.io/tacotron/) | Tacotron (/täkōˌträn/): An end-to-end speech synthesis system by Google. | [Demo](https://google.github.io/tacotron/publications/prosody_prior/index.html) | [![stars](https://badgen.net/github/stars/google/tacotron)](https://github.com/google/tacotron)
 
 
 #### 📃 Papers 📃
@@ -77,6 +78,7 @@
 * [Data Efficient Voice Cloning for Neural Singing Synthesis](https://mtg.github.io/singing-synthesis-demos/voice-cloning/)
 * [Efficient Neural Audio Synthesis](https://arxiv.org/pdf/1802.08435v1.pdf)
 * [Score and Lyrics-free Singing Voice Generation](https://arxiv.org/pdf/1912.11747.pdf)
+* [Generating diverse and natural Text-to-Speech samples using a quantized fine-grained vae and autoregressive prosody prior](https://arxiv.org/pdf/2002.03788.pdf)
 
 ### Generation Images
 
@@ -151,6 +153,7 @@
 * [GLTR: Statistical Detection and Visualization of Generated Text](https://arxiv.org/pdf/1906.04043.pdf)
 * [Human and Automatic Detection of Generated Text](https://arxiv.org/pdf/1911.00650.pdf)
 * [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/pdf/1909.05858.pdf)
+* [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://arxiv.org/pdf/1908.09805.pdf)
 
 ### Detection Audio
 
@@ -231,6 +234,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [ICML 2019 Synthetic Realities](https://sites.google.com/view/audiovisualfakes-icml2019/)
 * [CCN-CERT: Automatizando la detección de contenido Deep Fake](https://www.youtube.com/watch?v=ist4Za3C2DY) :es:
 * [TED Talk: Fake videos of real people](https://www.youtube.com/watch?v=o2DDU4g0PRo)
+* [Hacking with Skynet](https://www.slideshare.net/GTKlondike/hacking-with-skynet-how-ai-is-empowering-adversaries)
 
 ### Challenges
 
