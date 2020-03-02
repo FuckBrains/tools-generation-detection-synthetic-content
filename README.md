@@ -216,6 +216,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Celeb-DF (v2): A New Dataset for DeepFake Forensics](https://arxiv.org/pdf/1909.12962.pdf)
 * [Deepfake Video Detection through Optical Flow based CNN](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)
 * [MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/pdf/1809.00888.pdf)
+* [Adversarial Deepfakes](https://arxiv.org/pdf/2002.12749.pdf)
 
 #### 😎 Awesome 😎
 
@@ -237,6 +238,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [CCN-CERT: Automatizando la detección de contenido Deep Fake](https://www.youtube.com/watch?v=ist4Za3C2DY) :es:
 * [TED Talk: Fake videos of real people](https://www.youtube.com/watch?v=o2DDU4g0PRo)
 * [Hacking with Skynet](https://www.slideshare.net/GTKlondike/hacking-with-skynet-how-ai-is-empowering-adversaries)
+* [RSA: Deep Fakes Are Getting Terrifyingly Real](https://www.youtube.com/watch?v=DGdY-UWOfoo)
 
 ### Challenges
 
