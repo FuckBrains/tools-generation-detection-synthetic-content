@@ -69,6 +69,7 @@
 [Descrypt](https://www.descript.com/) | Record. Transcribe. Edit. Mix. As easy as typing. | N/A | N/A
 [Common Voice](https://voice.mozilla.org/en) | Common Voice is Mozilla's initiative to help teach machines how real people speak. | N/A | N/A
 [Resemble.ai](https://www.resemble.ai/) | Resemble can clone any voice so it sounds like a real human. | N/A | N/A
+[TacoTron](https://google.github.io/tacotron/) | Tacotron (/täkōˌträn/): An end-to-end speech synthesis system by Google. | [Demo](https://google.github.io/tacotron/publications/prosody_prior/index.html) | [![stars](https://badgen.net/github/stars/google/tacotron)](https://github.com/google/tacotron)
 
 
 #### 📃 Papers 📃
@@ -77,6 +78,7 @@
 * [Data Efficient Voice Cloning for Neural Singing Synthesis](https://mtg.github.io/singing-synthesis-demos/voice-cloning/)
 * [Efficient Neural Audio Synthesis](https://arxiv.org/pdf/1802.08435v1.pdf)
 * [Score and Lyrics-free Singing Voice Generation](https://arxiv.org/pdf/1912.11747.pdf)
+* [Generating diverse and natural Text-to-Speech samples using a quantized fine-grained vae and autoregressive prosody prior](https://arxiv.org/pdf/2002.03788.pdf)
 
 ### Generation Images
 
@@ -118,7 +120,7 @@
 [Faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN) | Adding Adversarial loss and perceptual loss (VGGface) to deepfakes'(reddit user) auto-encoder architecture. | https://github.com/shaoanlu/faceswap-GAN/blob/master/colab_demo/faceswap-GAN_colab_demo.ipynb | [![stars](https://badgen.net/github/stars/shaoanlu/faceswap-GAN)](https://github.com/shaoanlu/faceswap-GAN) |
 [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. | https://www.youtube.com/watch?v=um7q--QEkg4 | [![stars](https://badgen.net/github/stars/iperov/DeepFaceLab)](https://github.com/iperov/DeepFaceLab)|
 [Vid2Vid](https://github.com/NVIDIA/vid2vid) | Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.  | https://www.youtube.com/watch?v=5zlcXTCpQqM | [![stars](https://badgen.net/github/stars/NVIDIA/vid2vid)](https://github.com/NVIDIA/vid2vid)|
-
+[DFaker](https://github.com/dfaker/df) | Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.  | N/A | [![stars](https://badgen.net/github/stars/dfaker/df)](https://github.com/dfaker/df)|
 
 
 #### 📃 Papers 📃
@@ -133,6 +135,7 @@
 * [Website for creating deepfake videos with learning](https://deepfakesapp.online/)
 * [Deep Fakes Net - Deepfakes Network](https://deep-fakes.net/)
 * [Faceswap is the leading free and Open Source multi-platform Deepfakes software](https://faceswap.dev/)
+* [Fakening](https://fakening.com/)
 
 ## Detection of synthetic content
 
@@ -151,6 +154,7 @@
 * [GLTR: Statistical Detection and Visualization of Generated Text](https://arxiv.org/pdf/1906.04043.pdf)
 * [Human and Automatic Detection of Generated Text](https://arxiv.org/pdf/1911.00650.pdf)
 * [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/pdf/1909.05858.pdf)
+* [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://arxiv.org/pdf/1908.09805.pdf)
 
 ### Detection Audio
 
@@ -212,6 +216,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Celeb-DF (v2): A New Dataset for DeepFake Forensics](https://arxiv.org/pdf/1909.12962.pdf)
 * [Deepfake Video Detection through Optical Flow based CNN](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)
 * [MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/pdf/1809.00888.pdf)
+* [Adversarial Deepfakes](https://arxiv.org/pdf/2002.12749.pdf)
 
 #### 😎 Awesome 😎
 
@@ -224,11 +229,16 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [2020 Guide to Synthetic Media](https://blog.paperspace.com/2020-guide-to-synthetic-media/)
 * [Machine Learning Experiments](https://www.linkedin.com/posts/thiago-porto-24004ba8_machinelearning-experiments-deeplearning-ugcPost-6625473356533649408-sl9v/)
 * [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html)
+* [Contenido Sintético (parte I): generación y detección de audio y texto](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-i-generacion-y-deteccion-de-audio-y-texto/) :es:
+* [Fake Candidate](https://edition.cnn.com/2020/02/28/tech/fake-twitter-candidate-2020/index.html)
 
 ### Talks
 
 * [ICML 2019 Synthetic Realities](https://sites.google.com/view/audiovisualfakes-icml2019/)
 * [CCN-CERT: Automatizando la detección de contenido Deep Fake](https://www.youtube.com/watch?v=ist4Za3C2DY) :es:
+* [TED Talk: Fake videos of real people](https://www.youtube.com/watch?v=o2DDU4g0PRo)
+* [Hacking with Skynet](https://www.slideshare.net/GTKlondike/hacking-with-skynet-how-ai-is-empowering-adversaries)
+* [RSA: Deep Fakes Are Getting Terrifyingly Real](https://www.youtube.com/watch?v=DGdY-UWOfoo)
 
 ### Challenges
 
@@ -243,6 +253,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Reddit: MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
 * [Reddit: Digital Manipulation](https://www.reddit.com/r/Digital_Manipulation/)
 * [MrDeepFake Forums](https://mrdeepfakes.com/forums/) 🔞
+* [AIVillage](aivillage.slack.com)
 
 ## Contributors
 
