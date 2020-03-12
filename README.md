@@ -53,6 +53,7 @@
 * [TheseLyricsDoNotExist](https://theselyricsdonotexist.com/)
 * [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/)
 * [NotRealNews](https://notrealnews.net/)
+* [ThisArtWorkDoesnotExist](https://thisartworkdoesnotexist.com/)
 
 #### 😎 Awesome 😎
 
@@ -98,6 +99,7 @@
 * [Complement Face Forensic Detection and Localization with Facial Landmarks](https://arxiv.org/pdf/1910.05455.pdf)
 * [Joint Discriminative and Generative Learning for Person Re-identification](https://arxiv.org/pdf/1904.07223.pdf)
 * [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/pdf/1911.11544.pdf)
+* [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/pdf/2003.03581.pdf)
 
 #### 🌐 Webs 🌐
 
