@@ -54,6 +54,9 @@
 * [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/)
 * [NotRealNews](https://notrealnews.net/)
 * [ThisArtWorkDoesnotExist](https://thisartworkdoesnotexist.com/)
+* [BoredHumans](https://boredhumans.com/quotes.php)
+* [GPT-2 Neural Network Poetry](https://www.gwern.net/GPT-2)
+* [A.ttent.io](https://a.ttent.io/n/?v=7)
 
 #### 😎 Awesome 😎
 
@@ -219,6 +222,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Deepfake Video Detection through Optical Flow based CNN](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)
 * [MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/pdf/1809.00888.pdf)
 * [Adversarial Deepfakes](https://arxiv.org/pdf/2002.12749.pdf)
+* [One-Shot GAN Generated Fake Face Detection](https://arxiv.org/pdf/2003.12244.pdf)
 
 #### 😎 Awesome 😎
 
