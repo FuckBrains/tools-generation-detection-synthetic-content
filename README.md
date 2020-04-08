@@ -53,6 +53,10 @@
 * [TheseLyricsDoNotExist](https://theselyricsdonotexist.com/)
 * [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/)
 * [NotRealNews](https://notrealnews.net/)
+* [ThisArtWorkDoesnotExist](https://thisartworkdoesnotexist.com/)
+* [BoredHumans](https://boredhumans.com/quotes.php)
+* [GPT-2 Neural Network Poetry](https://www.gwern.net/GPT-2)
+* [A.ttent.io](https://a.ttent.io/n/?v=7)
 
 #### 😎 Awesome 😎
 
@@ -98,6 +102,7 @@
 * [Complement Face Forensic Detection and Localization with Facial Landmarks](https://arxiv.org/pdf/1910.05455.pdf)
 * [Joint Discriminative and Generative Learning for Person Re-identification](https://arxiv.org/pdf/1904.07223.pdf)
 * [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/pdf/1911.11544.pdf)
+* [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/pdf/2003.03581.pdf)
 
 #### 🌐 Webs 🌐
 
@@ -121,6 +126,7 @@
 [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. | https://www.youtube.com/watch?v=um7q--QEkg4 | [![stars](https://badgen.net/github/stars/iperov/DeepFaceLab)](https://github.com/iperov/DeepFaceLab)|
 [Vid2Vid](https://github.com/NVIDIA/vid2vid) | Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.  | https://www.youtube.com/watch?v=5zlcXTCpQqM | [![stars](https://badgen.net/github/stars/NVIDIA/vid2vid)](https://github.com/NVIDIA/vid2vid)|
 [DFaker](https://github.com/dfaker/df) | Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.  | N/A | [![stars](https://badgen.net/github/stars/dfaker/df)](https://github.com/dfaker/df)|
+[Image Animation](https://github.com/AliaksandrSiarohin/first-order-model) | The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos.  | https://www.youtube.com/watch?v=mUfJOQKdtAk | [![stars](https://badgen.net/github/stars/AliaksandrSiarohin/first-order-model)](https://github.com/AliaksandrSiarohin/first-order-model)|
 
 
 #### 📃 Papers 📃
@@ -217,6 +223,8 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Deepfake Video Detection through Optical Flow based CNN](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)
 * [MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/pdf/1809.00888.pdf)
 * [Adversarial Deepfakes](https://arxiv.org/pdf/2002.12749.pdf)
+* [One-Shot GAN Generated Fake Face Detection](https://arxiv.org/pdf/2003.12244.pdf)
+* [Evading Deepfake-Image Detectors with White- and Black-Box Attacks](https://arxiv.org/pdf/2004.00622.pdf)
 
 #### 😎 Awesome 😎
 
@@ -230,7 +238,9 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Machine Learning Experiments](https://www.linkedin.com/posts/thiago-porto-24004ba8_machinelearning-experiments-deeplearning-ugcPost-6625473356533649408-sl9v/)
 * [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html)
 * [Contenido Sintético (parte I): generación y detección de audio y texto](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-i-generacion-y-deteccion-de-audio-y-texto/) :es:
+* [Contenido Sintético (parte II): generación y detección de imagenes](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-ii-generacion-y-deteccion-de-imagenes/) :es:
 * [Fake Candidate](https://edition.cnn.com/2020/02/28/tech/fake-twitter-candidate-2020/index.html)
+* [Unraveling the mystery around deepfakes](https://densitydesign.github.io/teaching-dd15/course-results/es03/group08/)
 
 ### Talks
 
