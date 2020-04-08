@@ -224,6 +224,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/pdf/1809.00888.pdf)
 * [Adversarial Deepfakes](https://arxiv.org/pdf/2002.12749.pdf)
 * [One-Shot GAN Generated Fake Face Detection](https://arxiv.org/pdf/2003.12244.pdf)
+* [Evading Deepfake-Image Detectors with White- and Black-Box Attacks](https://arxiv.org/pdf/2004.00622.pdf)
 
 #### 😎 Awesome 😎
 
@@ -239,6 +240,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Contenido Sintético (parte I): generación y detección de audio y texto](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-i-generacion-y-deteccion-de-audio-y-texto/) :es:
 * [Contenido Sintético (parte II): generación y detección de imagenes](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-ii-generacion-y-deteccion-de-imagenes/) :es:
 * [Fake Candidate](https://edition.cnn.com/2020/02/28/tech/fake-twitter-candidate-2020/index.html)
+* [Unraveling the mystery around deepfakes](https://densitydesign.github.io/teaching-dd15/course-results/es03/group08/)
 
 ### Talks
 
