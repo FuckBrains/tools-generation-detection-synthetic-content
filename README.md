@@ -142,6 +142,7 @@
 * [Deep Fakes Net - Deepfakes Network](https://deep-fakes.net/)
 * [Faceswap is the leading free and Open Source multi-platform Deepfakes software](https://faceswap.dev/)
 * [Fakening](https://fakening.com/)
+* [DeepFakesWeb](https://deepfakesweb.com/)
 
 ## Detection of synthetic content
 
