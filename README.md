@@ -83,6 +83,7 @@
 * [Efficient Neural Audio Synthesis](https://arxiv.org/pdf/1802.08435v1.pdf)
 * [Score and Lyrics-free Singing Voice Generation](https://arxiv.org/pdf/1912.11747.pdf)
 * [Generating diverse and natural Text-to-Speech samples using a quantized fine-grained vae and autoregressive prosody prior](https://arxiv.org/pdf/2002.03788.pdf)
+* [Rave.dj](https://rave.dj/)
 
 ### Generation Images
 
