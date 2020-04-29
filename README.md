@@ -230,6 +230,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Adversarial Deepfakes](https://arxiv.org/pdf/2002.12749.pdf)
 * [One-Shot GAN Generated Fake Face Detection](https://arxiv.org/pdf/2003.12244.pdf)
 * [Evading Deepfake-Image Detectors with White- and Black-Box Attacks](https://arxiv.org/pdf/2004.00622.pdf)
+* [Deepfakes Detection with Automatic Face Weighting](https://arxiv.org/pdf/2004.12027v1.pdf)
 
 #### 😎 Awesome 😎
 
@@ -244,6 +245,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html)
 * [Contenido Sintético (parte I): generación y detección de audio y texto](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-i-generacion-y-deteccion-de-audio-y-texto/) :es:
 * [Contenido Sintético (parte II): generación y detección de imagenes](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-ii-generacion-y-deteccion-de-imagenes/) :es:
+* [Contenido Sintético (parte III): generación y detección de vídeo](https://www.bbvanexttechnologies.com/contenido-sintetico-generacion-y-deteccion-de-video/) :es:
 * [Fake Candidate](https://edition.cnn.com/2020/02/28/tech/fake-twitter-candidate-2020/index.html)
 * [Unraveling the mystery around deepfakes](https://densitydesign.github.io/teaching-dd15/course-results/es03/group08/)
 
