@@ -74,6 +74,8 @@
 [Common Voice](https://voice.mozilla.org/en) | Common Voice is Mozilla's initiative to help teach machines how real people speak. | N/A | N/A
 [Resemble.ai](https://www.resemble.ai/) | Resemble can clone any voice so it sounds like a real human. | N/A | N/A
 [TacoTron](https://google.github.io/tacotron/) | Tacotron (/täkōˌträn/): An end-to-end speech synthesis system by Google. | [Demo](https://google.github.io/tacotron/publications/prosody_prior/index.html) | [![stars](https://badgen.net/github/stars/google/tacotron)](https://github.com/google/tacotron)
+[Sonantic](https://sonantic.io/) | Create a captivating performance using emotionally expressive text-to-speech. | [Demo](https://www.youtube.com/watch?v=WzBimNSO-U8) | N/A
+[15.ai](https://fifteen.ai/) | Natural text-to-speech synthesis with minimal data (@MIT 2019). Email fifteenai15@gmail.com for inquiries. | [Demo](https://fifteen.ai/examples) | N/A
 
 
 #### 📃 Papers 📃
