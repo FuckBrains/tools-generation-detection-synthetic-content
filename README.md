@@ -74,6 +74,8 @@
 [Common Voice](https://voice.mozilla.org/en) | Common Voice is Mozilla's initiative to help teach machines how real people speak. | N/A | N/A
 [Resemble.ai](https://www.resemble.ai/) | Resemble can clone any voice so it sounds like a real human. | N/A | N/A
 [TacoTron](https://google.github.io/tacotron/) | Tacotron (/täkōˌträn/): An end-to-end speech synthesis system by Google. | [Demo](https://google.github.io/tacotron/publications/prosody_prior/index.html) | [![stars](https://badgen.net/github/stars/google/tacotron)](https://github.com/google/tacotron)
+[Sonantic](https://sonantic.io/) | Create a captivating performance using emotionally expressive text-to-speech. | [Demo](https://www.youtube.com/watch?v=WzBimNSO-U8) | N/A
+[15.ai](https://fifteen.ai/) | Natural text-to-speech synthesis with minimal data (@MIT 2019). Email fifteenai15@gmail.com for inquiries. | [Demo](https://fifteen.ai/examples) | N/A
 
 
 #### 📃 Papers 📃
@@ -83,6 +85,7 @@
 * [Efficient Neural Audio Synthesis](https://arxiv.org/pdf/1802.08435v1.pdf)
 * [Score and Lyrics-free Singing Voice Generation](https://arxiv.org/pdf/1912.11747.pdf)
 * [Generating diverse and natural Text-to-Speech samples using a quantized fine-grained vae and autoregressive prosody prior](https://arxiv.org/pdf/2002.03788.pdf)
+* [Rave.dj](https://rave.dj/)
 
 ### Generation Images
 
@@ -93,7 +96,9 @@
 [StyleGAN](https://github.com/NVlabs/stylegan) | An alternative generator architecture for generative adversarial networks, borrowing from style transfer literature. The new architecture leads to an automatically learned, unsupervised separation of high-level attributes (e.g., pose and identity when trained on human faces) and stochastic variation in the generated images (e.g., freckles, hair), and it enables intuitive, scale-specific control of the synthesis. The new generator improves the state-of-the-art in terms of traditional distribution quality metrics, leads to demonstrably better interpolation properties, and also better disentangles the latent factors of variation. | https://www.youtube.com/watch?v=kSLJriaOumA | [![stars](https://badgen.net/github/stars/NVlabs/stylegan)](https://github.com/NVlabs/stylegan)
 [StyleGAN2](https://github.com/NVlabs/stylegan2) | Improved version for StyleGAN. | https://www.youtube.com/watch?v=c-NJtV9Jvp0 | [![stars](https://badgen.net/github/stars/NVlabs/stylegan2)](https://github.com/NVlabs/stylegan2)
 | [DG-Net](https://github.com/NVlabs/DG-Net) | Joint Discriminative and Generative Learning for Person Re-identification | https://www.youtube.com/watch?v=ubCrEAIpQs4 | [![stars](https://badgen.net/github/stars/NVlabs/DG-Net)](https://github.com/NVlabs/DG-Net)
+| [GANSpace](https://github.com/harskish/ganspace) | Discovering Interpretable GAN Controls | http://www.exploreganspace.com/ | [![stars](https://badgen.net/github/stars/harskish/ganspace)](https://github.com/harskish/ganspace)
 |[StarGAN v2](https://github.com/clovaai/stargan-v2) | StarGAN v2 - Official PyTorch Implementation (CVPR 2020) | https://youtu.be/0EVh5Ki4dIY | [![stars](https://badgen.net/github/stars/clovaai/stargan-v2)](https://github.com/clovaai/stargan-v2)
+
 
 #### 📃 Papers 📃
 
@@ -128,6 +133,8 @@
 [Vid2Vid](https://github.com/NVIDIA/vid2vid) | Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.  | https://www.youtube.com/watch?v=5zlcXTCpQqM | [![stars](https://badgen.net/github/stars/NVIDIA/vid2vid)](https://github.com/NVIDIA/vid2vid)|
 [DFaker](https://github.com/dfaker/df) | Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.  | N/A | [![stars](https://badgen.net/github/stars/dfaker/df)](https://github.com/dfaker/df)|
 [Image Animation](https://github.com/AliaksandrSiarohin/first-order-model) | The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos.  | https://www.youtube.com/watch?v=mUfJOQKdtAk | [![stars](https://badgen.net/github/stars/AliaksandrSiarohin/first-order-model)](https://github.com/AliaksandrSiarohin/first-order-model)|
+[Avatarify](https://github.com/alievk/avatarify) | Photorealistic avatars for Skype and Zoom. Democratized. Based on First Order Motion Model..  | https://www.youtube.com/watch?v=lONuXGNqLO0 | [![stars](https://badgen.net/github/stars/alievk/avatarify)](https://github.com/alievk/avatarify)|
+
 
 
 #### 📃 Papers 📃
@@ -135,6 +142,7 @@
 * [HeadOn: Real-time Reenactment of Human Portrait Videos](https://arxiv.org/pdf/1805.11729.pdf)
 * [Face2Face: Real-time Face Capture and Reenactment of RGB Videos](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/CVPR2016_FF/page.html)
 * [Synthesizing Obama: Learning Lip Sync from Audio](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
+* [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf)
 
 #### 🌐 Webs 🌐
 
@@ -143,6 +151,7 @@
 * [Deep Fakes Net - Deepfakes Network](https://deep-fakes.net/)
 * [Faceswap is the leading free and Open Source multi-platform Deepfakes software](https://faceswap.dev/)
 * [Fakening](https://fakening.com/)
+* [DeepFakesWeb](https://deepfakesweb.com/)
 
 ## Detection of synthetic content
 
@@ -226,6 +235,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Adversarial Deepfakes](https://arxiv.org/pdf/2002.12749.pdf)
 * [One-Shot GAN Generated Fake Face Detection](https://arxiv.org/pdf/2003.12244.pdf)
 * [Evading Deepfake-Image Detectors with White- and Black-Box Attacks](https://arxiv.org/pdf/2004.00622.pdf)
+* [Deepfakes Detection with Automatic Face Weighting](https://arxiv.org/pdf/2004.12027v1.pdf)
 
 #### 😎 Awesome 😎
 
@@ -240,6 +250,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Building rules in public: Our approach to synthetic & manipulated media](https://blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html)
 * [Contenido Sintético (parte I): generación y detección de audio y texto](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-i-generacion-y-deteccion-de-audio-y-texto/) :es:
 * [Contenido Sintético (parte II): generación y detección de imagenes](https://www.bbvanexttechnologies.com/contenido-sintetico-parte-ii-generacion-y-deteccion-de-imagenes/) :es:
+* [Contenido Sintético (parte III): generación y detección de vídeo](https://www.bbvanexttechnologies.com/contenido-sintetico-generacion-y-deteccion-de-video/) :es:
 * [Fake Candidate](https://edition.cnn.com/2020/02/28/tech/fake-twitter-candidate-2020/index.html)
 * [Unraveling the mystery around deepfakes](https://densitydesign.github.io/teaching-dd15/course-results/es03/group08/)
 
