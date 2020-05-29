@@ -38,6 +38,7 @@
 [Talk to Transformer](https://talktotransformer.com/) | See how a modern neural network completes your text. Type a custom snippet or try one of the examples | https://talktotransformer.com | N/A |
 [LEO](http://leoia.es) | First intelligent system for creating news in Spanish | N/A | N/A
 [Big Bird](https://bigbird.dev/) | Bird Bird uses State of the Art (SOTA) Natural Language Processing to aid your fact-checked and substantive content. | [BigBirdDemo](https://run.bigbird.dev/auth/login)| N/A
+[aitextgen](https://github.com/minimaxir/aitextgen) | A robust Python tool for text-based AI training and generation using GPT-2.| [Demo](https://git.io/JfuXR) | [![stars](https://badgen.net/github/stars/minimaxir/aitextgen)](https://github.com/minimaxir/aitextgen)
 
 #### 📃 Papers 📃
 
@@ -45,6 +46,7 @@
 * [Automatic Conditional Generation of Personalized Social Media Short Texts ](https://arxiv.org/pdf/1906.09324.pdf)
 * [Neural Text Generation in Stories Using Entity Representations as Context](https://homes.cs.washington.edu/~eaclark7/www/naacl2018.pdf)
 * [DeepTingle](https://arxiv.org/pdf/1705.03557.pdf)
+* [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 
 #### 🌐 Webs 🌐
 
@@ -75,7 +77,7 @@
 [Resemble.ai](https://www.resemble.ai/) | Resemble can clone any voice so it sounds like a real human. | N/A | N/A
 [TacoTron](https://google.github.io/tacotron/) | Tacotron (/täkōˌträn/): An end-to-end speech synthesis system by Google. | [Demo](https://google.github.io/tacotron/publications/prosody_prior/index.html) | [![stars](https://badgen.net/github/stars/google/tacotron)](https://github.com/google/tacotron)
 [Sonantic](https://sonantic.io/) | Create a captivating performance using emotionally expressive text-to-speech. | [Demo](https://www.youtube.com/watch?v=WzBimNSO-U8) | N/A
-[15.ai](https://fifteen.ai/) | Natural text-to-speech synthesis with minimal data (@MIT 2019). Email fifteenai15@gmail.com for inquiries. | [Demo](https://fifteen.ai/examples) | N/A
+[15.ai](https://fifteen.ai/) | Natural text-to-speech synthesis with minimal data. | [Demo](https://fifteen.ai/examples) | N/A
 
 
 #### 📃 Papers 📃
@@ -142,7 +144,7 @@
 * [HeadOn: Real-time Reenactment of Human Portrait Videos](https://arxiv.org/pdf/1805.11729.pdf)
 * [Face2Face: Real-time Face Capture and Reenactment of RGB Videos](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/CVPR2016_FF/page.html)
 * [Synthesizing Obama: Learning Lip Sync from Audio](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
-* [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf)
+* [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf
 
 #### 🌐 Webs 🌐
 
@@ -236,6 +238,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [One-Shot GAN Generated Fake Face Detection](https://arxiv.org/pdf/2003.12244.pdf)
 * [Evading Deepfake-Image Detectors with White- and Black-Box Attacks](https://arxiv.org/pdf/2004.00622.pdf)
 * [Deepfakes Detection with Automatic Face Weighting](https://arxiv.org/pdf/2004.12027v1.pdf)
+* [Unmasking DeepFakes with simple Features](https://arxiv.org/pdf/1911.00686.pdf)
 
 #### 😎 Awesome 😎
 
