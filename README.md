@@ -144,7 +144,7 @@
 * [HeadOn: Real-time Reenactment of Human Portrait Videos](https://arxiv.org/pdf/1805.11729.pdf)
 * [Face2Face: Real-time Face Capture and Reenactment of RGB Videos](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/CVPR2016_FF/page.html)
 * [Synthesizing Obama: Learning Lip Sync from Audio](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
-* [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf
+* [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf)
 
 #### 🌐 Webs 🌐
 
