@@ -239,6 +239,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Evading Deepfake-Image Detectors with White- and Black-Box Attacks](https://arxiv.org/pdf/2004.00622.pdf)
 * [Deepfakes Detection with Automatic Face Weighting](https://arxiv.org/pdf/2004.12027v1.pdf)
 * [Unmasking DeepFakes with simple Features](https://arxiv.org/pdf/1911.00686.pdf)
+* [Media Forensics and DeepFakes: an overview](https://arxiv.org/pdf/2001.06564.pdf)
 
 #### 😎 Awesome 😎
 
