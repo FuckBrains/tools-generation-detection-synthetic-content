@@ -39,6 +39,7 @@
 [LEO](http://leoia.es) | First intelligent system for creating news in Spanish | N/A | N/A
 [Big Bird](https://bigbird.dev/) | Bird Bird uses State of the Art (SOTA) Natural Language Processing to aid your fact-checked and substantive content. | [BigBirdDemo](https://run.bigbird.dev/auth/login)| N/A
 [aitextgen](https://github.com/minimaxir/aitextgen) | A robust Python tool for text-based AI training and generation using GPT-2.| [Demo](https://git.io/JfuXR) | [![stars](https://badgen.net/github/stars/minimaxir/aitextgen)](https://github.com/minimaxir/aitextgen)
+[GPT-3: Language Models are Few-Shot Learners](https://github.com/openai/gpt-3) | GPT-3: Language Models are Few-Shot Learners | N/A | [![stars](https://badgen.net/github/stars/openai/gpt-3)](https://github.com/openai/gpt-3)
 
 #### 📃 Papers 📃
 
