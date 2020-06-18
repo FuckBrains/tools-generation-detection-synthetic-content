@@ -102,6 +102,7 @@
 | [DG-Net](https://github.com/NVlabs/DG-Net) | Joint Discriminative and Generative Learning for Person Re-identification | https://www.youtube.com/watch?v=ubCrEAIpQs4 | [![stars](https://badgen.net/github/stars/NVlabs/DG-Net)](https://github.com/NVlabs/DG-Net)
 | [GANSpace](https://github.com/harskish/ganspace) | Discovering Interpretable GAN Controls | http://www.exploreganspace.com/ | [![stars](https://badgen.net/github/stars/harskish/ganspace)](https://github.com/harskish/ganspace)
 |[StarGAN v2](https://github.com/clovaai/stargan-v2) | StarGAN v2 - Official PyTorch Implementation (CVPR 2020) | https://youtu.be/0EVh5Ki4dIY | [![stars](https://badgen.net/github/stars/clovaai/stargan-v2)](https://github.com/clovaai/stargan-v2)
+[Image GPT](https://github.com/openai/image-gpt) | Image GPT | N/A | [![stars](https://badgen.net/github/stars/openai/image-gpt)](https://github.com/openai/image-gpt)
 
 
 #### 📃 Papers 📃
@@ -113,6 +114,7 @@
 * [Joint Discriminative and Generative Learning for Person Re-identification](https://arxiv.org/pdf/1904.07223.pdf)
 * [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/pdf/1911.11544.pdf)
 * [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/pdf/2003.03581.pdf)
+* [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 
 #### 🌐 Webs 🌐
 
