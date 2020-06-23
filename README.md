@@ -245,6 +245,10 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Unmasking DeepFakes with simple Features](https://arxiv.org/pdf/1911.00686.pdf)
 * [VideoForensicsHQ: Detecting High-quality Manipulated Face Videos](https://arxiv.org/pdf/2005.10360.pdf)
 
+#### 📺 Videos 📺
+
+* [Deepfake Detection using LSTM and ResNext CNN](https://youtu.be/_q16aJTXVRE)
+
 #### 😎 Awesome 😎
 
 * [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
