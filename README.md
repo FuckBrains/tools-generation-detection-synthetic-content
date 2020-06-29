@@ -49,6 +49,7 @@
 * [Neural Text Generation in Stories Using Entity Representations as Context](https://homes.cs.washington.edu/~eaclark7/www/naacl2018.pdf)
 * [DeepTingle](https://arxiv.org/pdf/1705.03557.pdf)
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+* [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf)
 
 #### 🌐 Webs 🌐
 
