@@ -116,6 +116,7 @@
 * [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/pdf/1911.11544.pdf)
 * [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/pdf/2003.03581.pdf)
 * [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
+* [Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition](https://arxiv.org/pdf/2006.16011.pdf)
 
 #### 🌐 Webs 🌐
 
