@@ -127,6 +127,10 @@
 * [ThisWaifuDoesNotExist](https://www.thiswaifudoesnotexist.net/)
 * [thispersondoesnotexist](http://www.thispersondoesnotexist.com/)
 
+#### 😎 Awesome 😎
+
+* [Awesome Pretrained StyleGAN2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+
 ### Generation Videos
 
 #### ⚒️ Tools ⚒️
