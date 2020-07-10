@@ -104,7 +104,7 @@
 | [GANSpace](https://github.com/harskish/ganspace) | Discovering Interpretable GAN Controls | http://www.exploreganspace.com/ | [![stars](https://badgen.net/github/stars/harskish/ganspace)](https://github.com/harskish/ganspace)
 |[StarGAN v2](https://github.com/clovaai/stargan-v2) | StarGAN v2 - Official PyTorch Implementation (CVPR 2020) | https://youtu.be/0EVh5Ki4dIY | [![stars](https://badgen.net/github/stars/clovaai/stargan-v2)](https://github.com/clovaai/stargan-v2)
 [Image GPT](https://github.com/openai/image-gpt) | Image GPT | N/A | [![stars](https://badgen.net/github/stars/openai/image-gpt)](https://github.com/openai/image-gpt)
-
+[FQ-GAN](https://github.com/YangNaruto/FQ-GAN) | Official implementation of FQ-GAN | http://40.71.23.172:8888 | [![stars](https://badgen.net/github/stars/YangNaruto/FQ-GAN)](https://github.com/YangNaruto/FQ-GAN)
 
 #### 📃 Papers 📃
 
@@ -118,6 +118,7 @@
 * [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 * [Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition](https://arxiv.org/pdf/2006.16011.pdf)
 * [StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/pdf/1912.01865.pdf)
+* [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf)
 
 #### 🌐 Webs 🌐
 
