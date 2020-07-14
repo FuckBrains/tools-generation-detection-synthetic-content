@@ -100,6 +100,8 @@
 | [DG-Net](https://github.com/NVlabs/DG-Net) | Joint Discriminative and Generative Learning for Person Re-identification | https://www.youtube.com/watch?v=ubCrEAIpQs4 | [![stars](https://badgen.net/github/stars/NVlabs/DG-Net)](https://github.com/NVlabs/DG-Net)
 | [GANSpace](https://github.com/harskish/ganspace) | Discovering Interpretable GAN Controls | http://www.exploreganspace.com/ | [![stars](https://badgen.net/github/stars/harskish/ganspace)](https://github.com/harskish/ganspace)
 |[StarGAN v2](https://github.com/clovaai/stargan-v2) | StarGAN v2 - Official PyTorch Implementation (CVPR 2020) | https://youtu.be/0EVh5Ki4dIY | [![stars](https://badgen.net/github/stars/clovaai/stargan-v2)](https://github.com/clovaai/stargan-v2)
+|[EHM_Faces](https://github.com/colinrsmall/ehm_faces) | EHM_Faces is a machine learning project that can generate high-quality, realistic ice hockey player portraits. Primarily meant for the game Eastside Hockey Manager (EHM), this project can generate portraits either one-at-a-time or in batches (the resulting batches are called facepacks). | N/A | [![stars](https://badgen.net/github/stars/colinrsmall/ehm_faces)](https://github.com/colinrsmall/ehm_faces)
+
 
 
 #### 📃 Papers 📃
@@ -239,6 +241,8 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Evading Deepfake-Image Detectors with White- and Black-Box Attacks](https://arxiv.org/pdf/2004.00622.pdf)
 * [Deepfakes Detection with Automatic Face Weighting](https://arxiv.org/pdf/2004.12027v1.pdf)
 * [Unmasking DeepFakes with simple Features](https://arxiv.org/pdf/1911.00686.pdf)
+* [Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems](https://arxiv.org/pdf/2003.01279.pdf)
+
 
 #### 😎 Awesome 😎
 
