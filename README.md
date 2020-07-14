@@ -39,14 +39,17 @@
 [LEO](http://leoia.es) | First intelligent system for creating news in Spanish | N/A | N/A
 [Big Bird](https://bigbird.dev/) | Bird Bird uses State of the Art (SOTA) Natural Language Processing to aid your fact-checked and substantive content. | [BigBirdDemo](https://run.bigbird.dev/auth/login)| N/A
 [aitextgen](https://github.com/minimaxir/aitextgen) | A robust Python tool for text-based AI training and generation using GPT-2.| [Demo](https://git.io/JfuXR) | [![stars](https://badgen.net/github/stars/minimaxir/aitextgen)](https://github.com/minimaxir/aitextgen)
+[GPT-3](https://github.com/openai/gpt-3) | GPT-3: Language Models are Few-Shot Learners | N/A | [![stars](https://badgen.net/github/stars/openai/gpt-3)](https://github.com/openai/gpt-3)
 
 #### 📃 Papers 📃
 
+* [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
 * [Saliency Maps Generation for Automatic Text Summarization](https://arxiv.org/pdf/1907.05664.pdf)
-* [Automatic Conditional Generation of Personalized Social Media Short Texts ](https://arxiv.org/pdf/1906.09324.pdf)
+* [Automatic Conditional Generation of Personalized Social Media Short Texts](https://arxiv.org/pdf/1906.09324.pdf)
 * [Neural Text Generation in Stories Using Entity Representations as Context](https://homes.cs.washington.edu/~eaclark7/www/naacl2018.pdf)
 * [DeepTingle](https://arxiv.org/pdf/1705.03557.pdf)
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+* [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf)
 
 #### 🌐 Webs 🌐
 
@@ -100,8 +103,9 @@
 | [DG-Net](https://github.com/NVlabs/DG-Net) | Joint Discriminative and Generative Learning for Person Re-identification | https://www.youtube.com/watch?v=ubCrEAIpQs4 | [![stars](https://badgen.net/github/stars/NVlabs/DG-Net)](https://github.com/NVlabs/DG-Net)
 | [GANSpace](https://github.com/harskish/ganspace) | Discovering Interpretable GAN Controls | http://www.exploreganspace.com/ | [![stars](https://badgen.net/github/stars/harskish/ganspace)](https://github.com/harskish/ganspace)
 |[StarGAN v2](https://github.com/clovaai/stargan-v2) | StarGAN v2 - Official PyTorch Implementation (CVPR 2020) | https://youtu.be/0EVh5Ki4dIY | [![stars](https://badgen.net/github/stars/clovaai/stargan-v2)](https://github.com/clovaai/stargan-v2)
+[Image GPT](https://github.com/openai/image-gpt) | Image GPT | N/A | [![stars](https://badgen.net/github/stars/openai/image-gpt)](https://github.com/openai/image-gpt)
+[FQ-GAN](https://github.com/YangNaruto/FQ-GAN) | Official implementation of FQ-GAN | http://40.71.23.172:8888 | [![stars](https://badgen.net/github/stars/YangNaruto/FQ-GAN)](https://github.com/YangNaruto/FQ-GAN)
 |[EHM_Faces](https://github.com/colinrsmall/ehm_faces) | EHM_Faces is a machine learning project that can generate high-quality, realistic ice hockey player portraits. Primarily meant for the game Eastside Hockey Manager (EHM), this project can generate portraits either one-at-a-time or in batches (the resulting batches are called facepacks). | N/A | [![stars](https://badgen.net/github/stars/colinrsmall/ehm_faces)](https://github.com/colinrsmall/ehm_faces)
-
 
 
 #### 📃 Papers 📃
@@ -113,6 +117,11 @@
 * [Joint Discriminative and Generative Learning for Person Re-identification](https://arxiv.org/pdf/1904.07223.pdf)
 * [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/pdf/1911.11544.pdf)
 * [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/pdf/2003.03581.pdf)
+* [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
+* [Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition](https://arxiv.org/pdf/2006.16011.pdf)
+* [StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/pdf/1912.01865.pdf)
+* [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf)
+* [High-Resolution Neural Face Swapping for Visual Effects](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf)
 
 #### 🌐 Webs 🌐
 
@@ -122,6 +131,10 @@
 * [ThisCatDoesNotExist](https://thiscatdoesnotexist.com/)
 * [ThisWaifuDoesNotExist](https://www.thiswaifudoesnotexist.net/)
 * [thispersondoesnotexist](http://www.thispersondoesnotexist.com/)
+
+#### 😎 Awesome 😎
+
+* [Awesome Pretrained StyleGAN2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 
 ### Generation Videos
 
@@ -146,7 +159,7 @@
 * [HeadOn: Real-time Reenactment of Human Portrait Videos](https://arxiv.org/pdf/1805.11729.pdf)
 * [Face2Face: Real-time Face Capture and Reenactment of RGB Videos](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/CVPR2016_FF/page.html)
 * [Synthesizing Obama: Learning Lip Sync from Audio](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
-* [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf
+* [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf)
 
 #### 🌐 Webs 🌐
 
@@ -241,8 +254,12 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Evading Deepfake-Image Detectors with White- and Black-Box Attacks](https://arxiv.org/pdf/2004.00622.pdf)
 * [Deepfakes Detection with Automatic Face Weighting](https://arxiv.org/pdf/2004.12027v1.pdf)
 * [Unmasking DeepFakes with simple Features](https://arxiv.org/pdf/1911.00686.pdf)
+* [VideoForensicsHQ: Detecting High-quality Manipulated Face Videos](https://arxiv.org/pdf/2005.10360.pdf)
 * [Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems](https://arxiv.org/pdf/2003.01279.pdf)
 
+#### 📺 Videos 📺
+
+* [Deepfake Detection using LSTM and ResNext CNN](https://youtu.be/_q16aJTXVRE)
 
 #### 😎 Awesome 😎
 
