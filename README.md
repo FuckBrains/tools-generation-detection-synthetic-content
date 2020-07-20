@@ -122,6 +122,7 @@
 * [StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/pdf/1912.01865.pdf)
 * [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf)
 * [High-Resolution Neural Face Swapping for Visual Effects](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf)
+* [Improving Style-Content Disentanglement in Image-to-Image Translation](https://arxiv.org/pdf/2007.04964.pdf)
 
 #### 🌐 Webs 🌐
 
