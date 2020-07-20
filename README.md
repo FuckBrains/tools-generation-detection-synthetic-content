@@ -170,6 +170,10 @@
 * [Fakening](https://fakening.com/)
 * [DeepFakesWeb](https://deepfakesweb.com/)
 
+#### 📺 Videos 📺
+
+* [How to Animate Image with a Video](https://www.youtube.com/watch?v=6W5uoFUIOvk)
+
 ## Detection of synthetic content
 
 ### Detection Text
