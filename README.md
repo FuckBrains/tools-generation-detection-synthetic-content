@@ -266,6 +266,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 #### 📺 Videos 📺
 
 * [Deepfake Detection using LSTM and ResNext CNN](https://youtu.be/_q16aJTXVRE)
+* [End-To-End AI Video Generation To Bring Fake Humans To Life](https://youtu.be/VxrtbWqwyUk)
 
 #### 😎 Awesome 😎
 
