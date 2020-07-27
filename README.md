@@ -152,7 +152,7 @@
 [DFaker](https://github.com/dfaker/df) | Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.  | N/A | [![stars](https://badgen.net/github/stars/dfaker/df)](https://github.com/dfaker/df)|
 [Image Animation](https://github.com/AliaksandrSiarohin/first-order-model) | The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos.  | https://www.youtube.com/watch?v=mUfJOQKdtAk | [![stars](https://badgen.net/github/stars/AliaksandrSiarohin/first-order-model)](https://github.com/AliaksandrSiarohin/first-order-model)|
 [Avatarify](https://github.com/alievk/avatarify) | Photorealistic avatars for Skype and Zoom. Democratized. Based on First Order Motion Model..  | https://www.youtube.com/watch?v=lONuXGNqLO0 | [![stars](https://badgen.net/github/stars/alievk/avatarify)](https://github.com/alievk/avatarify)|
-
+[Speech driven animation](https://github.com/DinoMan/speech-driven-animation) | This library implements the end-to-end facial synthesis model.  | N/A | [![stars](https://badgen.net/github/stars/DinoMan/speech-driven-animation)](https://github.com/DinoMan/speech-driven-animation)|
 
 
 #### 📃 Papers 📃
@@ -267,6 +267,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 
 * [Deepfake Detection using LSTM and ResNext CNN](https://youtu.be/_q16aJTXVRE)
 * [End-To-End AI Video Generation To Bring Fake Humans To Life](https://youtu.be/VxrtbWqwyUk)
+* [DeepFake Cyber Security Threats And Opportunities - Matt Lewis](https://www.youtube.com/watch?v=HoYZG1JpZbg)
 
 #### 😎 Awesome 😎
 
@@ -284,6 +285,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Contenido Sintético (parte III): generación y detección de vídeo](https://www.bbvanexttechnologies.com/contenido-sintetico-generacion-y-deteccion-de-video/) :es:
 * [Fake Candidate](https://edition.cnn.com/2020/02/28/tech/fake-twitter-candidate-2020/index.html)
 * [Unraveling the mystery around deepfakes](https://densitydesign.github.io/teaching-dd15/course-results/es03/group08/)
+* [Cyber-Security implications of deepfakes](https://newsroom.nccgroup.com/documents/a-report-on-the-cyber-security-implications-of-deepfakes-by-university-college-london-96562)
 
 ### Talks
 
