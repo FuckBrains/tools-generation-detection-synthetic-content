@@ -287,6 +287,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Fake Candidate](https://edition.cnn.com/2020/02/28/tech/fake-twitter-candidate-2020/index.html)
 * [Unraveling the mystery around deepfakes](https://densitydesign.github.io/teaching-dd15/course-results/es03/group08/)
 * [Cyber-Security implications of deepfakes](https://newsroom.nccgroup.com/documents/a-report-on-the-cyber-security-implications-of-deepfakes-by-university-college-london-96562)
+* [Deepfake Detection Challenge Results: An open initiative to advance AI](https://ai.facebook.com/blog/deepfake-detection-challenge-results-an-open-initiative-to-advance-ai/)
 
 ### Talks
 
