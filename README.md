@@ -245,7 +245,7 @@
 * [DeepFakes: a New Threat to Face Recognition? Assessment and Detection](https://arxiv.org/pdf/1812.08685.pdf)
 * [FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/pdf/1901.08971.pdf)
 * [Deepfake Video Detection Using Recurrent Neural Networks](https://engineering.purdue.edu/~dgueraco/content/deepfake.pdf)
-* [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/pdf/1909.11573.pdf)
+* [Deep Learning for Deepfakes Creation and Detection: A Survey](https://arxiv.org/pdf/1909.11573v2.pdf)
 * [Protecting World Leaders Against Deep Fakes](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
 * [Capsule-Forensics: Using Capsule Networks to Detect Forged Images and Videos](https://arxiv.org/pdf/1810.11215.pdf)
 * [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
