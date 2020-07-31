@@ -62,6 +62,7 @@
 * [BoredHumans](https://boredhumans.com/quotes.php)
 * [GPT-2 Neural Network Poetry](https://www.gwern.net/GPT-2)
 * [A.ttent.io](https://a.ttent.io/n/?v=7)
+* [ThisEpisodeDoesNotExist](https://thisepisodedoesnotexist.com)
 
 #### 😎 Awesome 😎
 
