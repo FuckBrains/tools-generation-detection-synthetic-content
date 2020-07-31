@@ -106,6 +106,7 @@
 [Image GPT](https://github.com/openai/image-gpt) | Image GPT | N/A | [![stars](https://badgen.net/github/stars/openai/image-gpt)](https://github.com/openai/image-gpt)
 [FQ-GAN](https://github.com/YangNaruto/FQ-GAN) | Official implementation of FQ-GAN | http://40.71.23.172:8888 | [![stars](https://badgen.net/github/stars/YangNaruto/FQ-GAN)](https://github.com/YangNaruto/FQ-GAN)
 |[EHM_Faces](https://github.com/colinrsmall/ehm_faces) | EHM_Faces is a machine learning project that can generate high-quality, realistic ice hockey player portraits. Primarily meant for the game Eastside Hockey Manager (EHM), this project can generate portraits either one-at-a-time or in batches (the resulting batches are called facepacks). | N/A | [![stars](https://badgen.net/github/stars/colinrsmall/ehm_faces)](https://github.com/colinrsmall/ehm_faces)
+|[Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting) | Edits the weights of a deep generative network by rewriting associative memory directly, without training data | [Demo](https://colab.research.google.com/github/davidbau/rewriting/blob/master/notebooks/rewriting-interface.ipynb) | [![stars](https://badgen.net/github/stars/davidbau/rewriting)](https://github.com/davidbau/rewriting)
 
 
 #### 📃 Papers 📃
@@ -123,6 +124,7 @@
 * [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf)
 * [High-Resolution Neural Face Swapping for Visual Effects](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf)
 * [Improving Style-Content Disentanglement in Image-to-Image Translation](https://arxiv.org/pdf/2007.04964.pdf)
+* [Rewriting a Deep Generative Model](https://arxiv.org/pdf/2007.15646.pdf)
 
 #### 🌐 Webs 🌐
 
