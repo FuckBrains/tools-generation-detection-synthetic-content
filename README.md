@@ -67,6 +67,7 @@
 #### 😎 Awesome 😎
 
 * [awesome-text-generation](https://github.com/ChenChengKuan/awesome-text-generation)
+* [Awesome GPT-3](https://github.com/elyase/awesome-gpt3)
 
 ### Generation Audio
 
