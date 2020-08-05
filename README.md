@@ -301,6 +301,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [TED Talk: Fake videos of real people](https://www.youtube.com/watch?v=o2DDU4g0PRo)
 * [Hacking with Skynet](https://www.slideshare.net/GTKlondike/hacking-with-skynet-how-ai-is-empowering-adversaries)
 * [RSA: Deep Fakes Are Getting Terrifyingly Real](https://www.youtube.com/watch?v=DGdY-UWOfoo)
+* [Workshop on media forensics](https://sites.google.com/view/wmediaforensics2020/)
 
 ### Challenges
 
