@@ -268,6 +268,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [VideoForensicsHQ: Detecting High-quality Manipulated Face Videos](https://arxiv.org/pdf/2005.10360.pdf)
 * [Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems](https://arxiv.org/pdf/2003.01279.pdf)
 * [Detecting Deepfake Videos: An Analysis of Three Techniques](https://arxiv.org/pdf/2007.08517v1.pdf)
+* [OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)
 
 #### 📺 Videos 📺
 
