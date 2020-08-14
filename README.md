@@ -312,6 +312,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Kaggle: DeepFake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
 * [Fake News Challenge](http://www.fakenewschallenge.org/)
 * [Xente: Fraud detection challenge](https://zindi.africa/competitions/xente-fraud-detection-challenge)
+* [Chalearn Multi-modal Cross-ethnicity Face anti-spoofing Recognition Challenge](https://competitions.codalab.org/competitions/22036)
 
 ### Forums
 
