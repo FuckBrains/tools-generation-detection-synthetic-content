@@ -295,6 +295,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Cyber-Security implications of deepfakes](https://newsroom.nccgroup.com/documents/a-report-on-the-cyber-security-implications-of-deepfakes-by-university-college-london-96562)
 * [Deepfake Detection Challenge Results: An open initiative to advance AI](https://ai.facebook.com/blog/deepfake-detection-challenge-results-an-open-initiative-to-advance-ai/)
 * [The Synthetic Media Landscape](https://www.syntheticmedialandscape.com/)
+* [Do (Microtargeted) Deepfakes Have Real Effects on Political Attitudes?](https://journals.sagepub.com/doi/pdf/10.1177/1940161220944364)
 
 ### Talks
 
