@@ -296,6 +296,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Deepfake Detection Challenge Results: An open initiative to advance AI](https://ai.facebook.com/blog/deepfake-detection-challenge-results-an-open-initiative-to-advance-ai/)
 * [The Synthetic Media Landscape](https://www.syntheticmedialandscape.com/)
 * [Do (Microtargeted) Deepfakes Have Real Effects on Political Attitudes?](https://journals.sagepub.com/doi/pdf/10.1177/1940161220944364)
+* [Identificar un deepfake no es tan fácil](https://www.spotdeepfakes.org/es-ES) :es:
 
 ### Talks
 
