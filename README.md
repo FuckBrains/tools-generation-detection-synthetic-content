@@ -297,6 +297,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [The Synthetic Media Landscape](https://www.syntheticmedialandscape.com/)
 * [Do (Microtargeted) Deepfakes Have Real Effects on Political Attitudes?](https://journals.sagepub.com/doi/pdf/10.1177/1940161220944364)
 * [Spotting deepfakes isn’t as easy as you might think](https://www.spotdeepfakes.org/en-EN)
+* [New Steps to Combat Disinformation](https://blogs.microsoft.com/on-the-issues/2020/09/01/disinformation-deepfakes-newsguard-video-authenticator/)
 
 ### Talks
 
