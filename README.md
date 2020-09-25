@@ -317,6 +317,11 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Xente: Fraud detection challenge](https://zindi.africa/competitions/xente-fraud-detection-challenge)
 * [Chalearn Multi-modal Cross-ethnicity Face anti-spoofing Recognition Challenge](https://competitions.codalab.org/competitions/22036)
 
+### Companies
+
+* [Synesthesia: Create your own AI video.](https://www.synthesia.io/)
+* [Voicery: Custom text-to-speech voice engines.](https://www.voicery.com/)
+
 ### Forums
 
 * [Reddit: MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
