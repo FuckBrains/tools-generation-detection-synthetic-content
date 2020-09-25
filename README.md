@@ -319,8 +319,8 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 
 ### Companies
 
-* [Synesthesia: Create your own AI video.](https://www.synthesia.io/)
-* [Voicery: Custom text-to-speech voice engines.](https://www.voicery.com/)
+* [Synesthesia: Create your own AI video](https://www.synthesia.io/)
+* [Voicery: Custom text-to-speech voice engines](https://www.voicery.com/)
 
 ### Forums
 
