@@ -127,6 +127,7 @@
 * [High-Resolution Neural Face Swapping for Visual Effects](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf)
 * [Improving Style-Content Disentanglement in Image-to-Image Translation](https://arxiv.org/pdf/2007.04964.pdf)
 * [Rewriting a Deep Generative Model](https://arxiv.org/pdf/2007.15646.pdf)
+* [MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network](https://arxiv.org/pdf/2010.01424.pdf)
 
 #### 🌐 Webs 🌐
 
