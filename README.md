@@ -159,7 +159,8 @@
 [Image Animation](https://github.com/AliaksandrSiarohin/first-order-model) | The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos.  | https://www.youtube.com/watch?v=mUfJOQKdtAk | [![stars](https://badgen.net/github/stars/AliaksandrSiarohin/first-order-model)](https://github.com/AliaksandrSiarohin/first-order-model)|
 [Avatarify](https://github.com/alievk/avatarify) | Photorealistic avatars for Skype and Zoom. Democratized. Based on First Order Motion Model..  | https://www.youtube.com/watch?v=lONuXGNqLO0 | [![stars](https://badgen.net/github/stars/alievk/avatarify)](https://github.com/alievk/avatarify)|
 [Speech driven animation](https://github.com/DinoMan/speech-driven-animation) | This library implements the end-to-end facial synthesis model.  | N/A | [![stars](https://badgen.net/github/stars/DinoMan/speech-driven-animation)](https://github.com/DinoMan/speech-driven-animation)|
-
+[Wav2Lip](https://github.com/Rudrabha/Wav2Lip) | Accurately Lip-sync Videos to Any Speech | https://bhaasha.iiit.ac.in/lipsync | [![stars](https://badgen.net/github/stars/Rudrabha/Wav2Lip)](https://github.com/Rudrabha/Wav2Lip)
+[LipGAN](https://github.com/Rudrabha/LipGAN) | Generate realistic talking faces for any human speech and face identity. | https://youtu.be/aHG6Oei8jF0 | [![stars](https://badgen.net/github/stars/Rudrabha/LipGAN)](https://github.com/Rudrabha/LipGAN)
 
 #### 📃 Papers 📃
 
@@ -167,6 +168,9 @@
 * [Face2Face: Real-time Face Capture and Reenactment of RGB Videos](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/CVPR2016_FF/page.html)
 * [Synthesizing Obama: Learning Lip Sync from Audio](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
 * [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf)
+* [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/pdf/2008.10010.pdf)
+* [Towards Automatic Face-to-Face Translation](https://arxiv.org/pdf/2003.00418.pdf)
+
 
 #### 🌐 Webs 🌐
 
