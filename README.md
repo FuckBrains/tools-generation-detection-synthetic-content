@@ -95,6 +95,7 @@
 * [Generating diverse and natural Text-to-Speech samples using a quantized fine-grained vae and autoregressive prosody prior](https://arxiv.org/pdf/2002.03788.pdf)
 * [Rave.dj](https://rave.dj/)
 * [Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis](https://arxiv.org/pdf/2005.08209.pdf)
+* [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/pdf/2010.05646.pdf)
 
 ### Generation Images
 
