@@ -83,6 +83,7 @@
 [TacoTron](https://google.github.io/tacotron/) | Tacotron (/täkōˌträn/): An end-to-end speech synthesis system by Google. | [Demo](https://google.github.io/tacotron/publications/prosody_prior/index.html) | [![stars](https://badgen.net/github/stars/google/tacotron)](https://github.com/google/tacotron)
 [Sonantic](https://sonantic.io/) | Create a captivating performance using emotionally expressive text-to-speech. | [Demo](https://www.youtube.com/watch?v=WzBimNSO-U8) | N/A
 [15.ai](https://fifteen.ai/) | Natural text-to-speech synthesis with minimal data. | [Demo](https://fifteen.ai/examples) | N/A
+[Lip2Wav](https://github.com/Rudrabha/Lip2Wav) | Generate high quality speech from only lip movements. | [Demo](https://youtu.be/HziA-jmlk_4) | [![stars](https://badgen.net/github/stars/Rudrabha/Lip2Wav)](https://github.com/Rudrabha/Lip2Wav)
 
 
 #### 📃 Papers 📃
@@ -93,6 +94,7 @@
 * [Score and Lyrics-free Singing Voice Generation](https://arxiv.org/pdf/1912.11747.pdf)
 * [Generating diverse and natural Text-to-Speech samples using a quantized fine-grained vae and autoregressive prosody prior](https://arxiv.org/pdf/2002.03788.pdf)
 * [Rave.dj](https://rave.dj/)
+* [Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis](https://arxiv.org/pdf/2005.08209.pdf)
 
 ### Generation Images
 
