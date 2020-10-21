@@ -208,6 +208,7 @@
 * [Human and Automatic Detection of Generated Text](https://arxiv.org/pdf/1911.00650.pdf)
 * [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/pdf/1909.05858.pdf)
 * [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://arxiv.org/pdf/1908.09805.pdf)
+* [Mining Dual Emotion for Fake News Detection](https://arxiv.org/pdf/1903.01728v3.pdf)
 
 ### Detection Audio
 
