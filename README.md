@@ -84,6 +84,8 @@
 [Sonantic](https://sonantic.io/) | Create a captivating performance using emotionally expressive text-to-speech. | [Demo](https://www.youtube.com/watch?v=WzBimNSO-U8) | N/A
 [15.ai](https://fifteen.ai/) | Natural text-to-speech synthesis with minimal data. | [Demo](https://fifteen.ai/examples) | N/A
 [Lip2Wav](https://github.com/Rudrabha/Lip2Wav) | Generate high quality speech from only lip movements. | [Demo](https://youtu.be/HziA-jmlk_4) | [![stars](https://badgen.net/github/stars/Rudrabha/Lip2Wav)](https://github.com/Rudrabha/Lip2Wav)
+[VoiceFilter](https://github.com/mindslab-ai/voicefilter) | Unofficial PyTorch implementation of Google AI's VoiceFilter system | http://swpark.me/voicefilter/ | [![stars](https://badgen.net/github/stars/mindslab-ai/voicefilter)](https://github.com/mindslab-ai/voicefilter)
+[Cotatron](https://github.com/mindslab-ai/cotatron) | Official PyTorch Implementation | https://mindslab-ai.github.io/cotatron/ |  [![stars](https://badgen.net/github/stars/mindslab-ai/cotatron)](https://github.com/mindslab-ai/cotatron)
 
 
 #### 📃 Papers 📃
@@ -96,6 +98,8 @@
 * [Rave.dj](https://rave.dj/)
 * [Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis](https://arxiv.org/pdf/2005.08209.pdf)
 * [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/pdf/2010.05646.pdf)
+* [VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking](https://arxiv.org/pdf/1810.04826.pdf)
+* [Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data](https://arxiv.org/pdf/2005.03295.pdf)
 
 ### Generation Images
 
