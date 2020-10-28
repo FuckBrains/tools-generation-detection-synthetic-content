@@ -147,7 +147,7 @@
 * [ThisRentalDoesNotExist](https://thisrentaldoesnotexist.com/)
 * [ThisCatDoesNotExist](https://thiscatdoesnotexist.com/)
 * [ThisWaifuDoesNotExist](https://www.thiswaifudoesnotexist.net/)
-* [thispersondoesnotexist](http://www.thispersondoesnotexist.com/)
+* [MakeMeAZombie](https://makemeazombie.com/)
 
 #### 😎 Awesome 😎
 
