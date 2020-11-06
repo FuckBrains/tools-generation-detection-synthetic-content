@@ -297,6 +297,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 #### 😎 Awesome 😎
 
 * [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
+* [Awesome-GANS-and-Deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes)
 
 ## Misc
 
