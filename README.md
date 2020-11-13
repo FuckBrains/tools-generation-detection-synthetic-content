@@ -118,7 +118,7 @@
 |[EHM_Faces](https://github.com/colinrsmall/ehm_faces) | EHM_Faces is a machine learning project that can generate high-quality, realistic ice hockey player portraits. Primarily meant for the game Eastside Hockey Manager (EHM), this project can generate portraits either one-at-a-time or in batches (the resulting batches are called facepacks). | N/A | [![stars](https://badgen.net/github/stars/colinrsmall/ehm_faces)](https://github.com/colinrsmall/ehm_faces)
 |[Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting) | Edits the weights of a deep generative network by rewriting associative memory directly, without training data | [Demo](https://colab.research.google.com/github/davidbau/rewriting/blob/master/notebooks/rewriting-interface.ipynb) | [![stars](https://badgen.net/github/stars/davidbau/rewriting)](https://github.com/davidbau/rewriting)
 |[FaceShifter](https://github.com/mindslab-ai/faceshifter) | Unofficial PyTorch Implementation for FaceShifter | N/A | [![stars](https://badgen.net/github/stars/mindslab-ai/faceshifter)](https://github.com/mindslab-ai/faceshifter)
-
+|[Genforce](https://github.com/genforce/genforce) | An efficient PyTorch library for deep generative modeling. May the Generative Force (GenForce) be with You. | https://genforce.github.io/ | [![stars](https://badgen.net/github/stars/genforce/genforce)](https://github.com/genforce/genforce)
 
 #### 📃 Papers 📃
 
@@ -258,7 +258,6 @@
 [Capsule-Forensics-v2](https://github.com/nii-yamagishilab/Capsule-Forensics-v2) | Implementation of the paper: Use of a Capsule Network to Detect Fake Images and Videos. | N/A | [![stars](https://badgen.net/github/stars/nii-yamagishilab/Capsule-Forensics-v2)](https://github.com/nii-yamagishilab/Capsule-Forensics-v2)|
 [ClassNSeg](https://github.com/nii-yamagishilab/ClassNSeg) | Implementation of the paper: Multi-task Learning for Detecting and Segmenting Manipulated Facial Images and Videos (BTAS 2019). | N/A | [![stars](https://badgen.net/github/stars/nii-yamagishilab/ClassNSeg)](https://github.com/nii-yamagishilab/ClassNSeg)|
 | [fakeVideoForensics](https://github.com/next-security-lab/fakeVideoForensics) | Fake video detector | https://www.youtube.com/watch?v=8YYRT4lzQgY | [![stars](https://badgen.net/github/stars/next-security-lab/fakeVideoForensics)](https://github.com/next-security-lab/fakeVideoForensics)
-
 
 #### 📃 Papers 📃
 
