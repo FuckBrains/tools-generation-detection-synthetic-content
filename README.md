@@ -139,6 +139,7 @@
 * [MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network](https://arxiv.org/pdf/2010.01424.pdf)
 * [Very Deep VAEs Generalize Autoregressive Models And Can Outperform Them On Images](https://openreview.net/pdf?id=RLRXCV6DbEJ)
 * [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/pdf/1912.13457.pdf)
+* [Semantic Deep Face Models](https://studios.disneyresearch.com/app/uploads/2020/11/Semantic-Deep-Face-Models.pdf)
 
 #### 🌐 Webs 🌐
 
