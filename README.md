@@ -181,6 +181,7 @@
 * [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf)
 * [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/pdf/2008.10010.pdf)
 * [Towards Automatic Face-to-Face Translation](https://arxiv.org/pdf/2003.00418.pdf)
+* [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/pdf/2011.15126.pdf)
 
 
 #### 🌐 Webs 🌐
