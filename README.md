@@ -172,6 +172,7 @@
 [Speech driven animation](https://github.com/DinoMan/speech-driven-animation) | This library implements the end-to-end facial synthesis model.  | N/A | [![stars](https://badgen.net/github/stars/DinoMan/speech-driven-animation)](https://github.com/DinoMan/speech-driven-animation)|
 [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) | Accurately Lip-sync Videos to Any Speech | https://bhaasha.iiit.ac.in/lipsync | [![stars](https://badgen.net/github/stars/Rudrabha/Wav2Lip)](https://github.com/Rudrabha/Wav2Lip)
 [LipGAN](https://github.com/Rudrabha/LipGAN) | Generate realistic talking faces for any human speech and face identity. | https://youtu.be/aHG6Oei8jF0 | [![stars](https://badgen.net/github/stars/Rudrabha/LipGAN)](https://github.com/Rudrabha/LipGAN)
+[Impersonator++](https://www.impersonator.org/work/impersonator-plus-plus.html) | A Unified Framework for Human Image Synthesis | https://www.impersonator.org/work/impersonator-plus-plus.html | [![stars](https://badgen.net/github/stars/iPERDance/iPERCore)](https://github.com/iPERDance/iPERCore)
 
 #### 📃 Papers 📃
 
