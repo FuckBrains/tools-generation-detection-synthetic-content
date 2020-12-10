@@ -149,6 +149,7 @@
 * [ThisCatDoesNotExist](https://thiscatdoesnotexist.com/)
 * [ThisWaifuDoesNotExist](https://www.thiswaifudoesnotexist.net/)
 * [MakeMeAZombie](https://makemeazombie.com/)
+* [Multi-ingredient Pizza Image Generator](http://foodai.cs.rutgers.edu:2021)
 
 #### 😎 Awesome 😎
 
