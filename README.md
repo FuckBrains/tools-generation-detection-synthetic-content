@@ -40,6 +40,7 @@
 [Big Bird](https://bigbird.dev/) | Bird Bird uses State of the Art (SOTA) Natural Language Processing to aid your fact-checked and substantive content. | [BigBirdDemo](https://run.bigbird.dev/auth/login)| N/A
 [aitextgen](https://github.com/minimaxir/aitextgen) | A robust Python tool for text-based AI training and generation using GPT-2.| [Demo](https://git.io/JfuXR) | [![stars](https://badgen.net/github/stars/minimaxir/aitextgen)](https://github.com/minimaxir/aitextgen)
 [GPT-3](https://github.com/openai/gpt-3) | GPT-3: Language Models are Few-Shot Learners | N/A | [![stars](https://badgen.net/github/stars/openai/gpt-3)](https://github.com/openai/gpt-3)
+[FactGen](https://github.com/bigheiniu/FactGen) | Fact Enhanced News Generation | N/A | [![stars](https://badgen.net/github/stars/bigheiniu/FactGen)](https://github.com/bigheiniu/FactGen)
 
 #### 📃 Papers 📃
 
@@ -50,6 +51,7 @@
 * [DeepTingle](https://arxiv.org/pdf/1705.03557.pdf)
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 * [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf)
+* [Fact-Enhanced Synthetic News Generation](https://arxiv.org/pdf/2012.04778v1.pdf)
 
 #### 🌐 Webs 🌐
 
