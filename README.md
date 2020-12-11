@@ -140,6 +140,7 @@
 * [Very Deep VAEs Generalize Autoregressive Models And Can Outperform Them On Images](https://openreview.net/pdf?id=RLRXCV6DbEJ)
 * [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/pdf/1912.13457.pdf)
 * [Semantic Deep Face Models](https://studios.disneyresearch.com/app/uploads/2020/11/Semantic-Deep-Face-Models.pdf)
+* [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/pdf/2012.04781v1.pdf)
 
 #### 🌐 Webs 🌐
 
