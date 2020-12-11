@@ -52,6 +52,7 @@
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 * [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf)
 * [Fact-Enhanced Synthetic News Generation](https://arxiv.org/pdf/2012.04778v1.pdf)
+* [Facts2Story: Controlling Text Generation by Key Facts](https://arxiv.org/pdf/2012.04332v1.pdf)
 
 #### 🌐 Webs 🌐
 
