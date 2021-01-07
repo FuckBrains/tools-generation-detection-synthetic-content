@@ -122,6 +122,7 @@
 |[Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting) | Edits the weights of a deep generative network by rewriting associative memory directly, without training data | [Demo](https://colab.research.google.com/github/davidbau/rewriting/blob/master/notebooks/rewriting-interface.ipynb) | [![stars](https://badgen.net/github/stars/davidbau/rewriting)](https://github.com/davidbau/rewriting)
 |[FaceShifter](https://github.com/mindslab-ai/faceshifter) | Unofficial PyTorch Implementation for FaceShifter | N/A | [![stars](https://badgen.net/github/stars/mindslab-ai/faceshifter)](https://github.com/mindslab-ai/faceshifter)
 |[Genforce](https://github.com/genforce/genforce) | An efficient PyTorch library for deep generative modeling. May the Generative Force (GenForce) be with You. | https://genforce.github.io/ | [![stars](https://badgen.net/github/stars/genforce/genforce)](https://github.com/genforce/genforce)
+|[DALL-E in Pytorch](https://github.com/lucidrains/DALLE-pytorch)| Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch | N/A | [![stars](https://badgen.net/github/stars/lucidrains/DALLE-pytorch)](https://github.com/lucidrains/DALLE-pytorch)
 
 #### 📃 Papers 📃
 
@@ -144,6 +145,7 @@
 * [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/pdf/1912.13457.pdf)
 * [Semantic Deep Face Models](https://studios.disneyresearch.com/app/uploads/2020/11/Semantic-Deep-Face-Models.pdf)
 * [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/pdf/2012.04781v1.pdf)
+* [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e)
 
 #### 🌐 Webs 🌐
 
