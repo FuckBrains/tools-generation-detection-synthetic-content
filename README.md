@@ -124,6 +124,7 @@
 |[Genforce](https://github.com/genforce/genforce) | An efficient PyTorch library for deep generative modeling. May the Generative Force (GenForce) be with You. | https://genforce.github.io/ | [![stars](https://badgen.net/github/stars/genforce/genforce)](https://github.com/genforce/genforce)
 |[DALL-E in Pytorch](https://github.com/lucidrains/DALLE-pytorch)| Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch | N/A | [![stars](https://badgen.net/github/stars/lucidrains/DALLE-pytorch)](https://github.com/lucidrains/DALLE-pytorch)
 |[Lifespan Age Transformation Synthesis](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)| Lifespan Age Transformation Synthesis code | N/A | [![stars](https://badgen.net/github/stars/royorel/Lifespan_Age_Transformation_Synthesis)](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)
+|[Navigan](https://github.com/yandex-research/navigan)| Navigating the GAN Parameter Space for Semantic Image Editing | N/A | [![stars](https://badgen.net/github/stars/yandex-research/navigan)](https://github.com/yandex-research/navigan)
 
 #### 📃 Papers 📃
 
