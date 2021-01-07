@@ -123,6 +123,7 @@
 |[FaceShifter](https://github.com/mindslab-ai/faceshifter) | Unofficial PyTorch Implementation for FaceShifter | N/A | [![stars](https://badgen.net/github/stars/mindslab-ai/faceshifter)](https://github.com/mindslab-ai/faceshifter)
 |[Genforce](https://github.com/genforce/genforce) | An efficient PyTorch library for deep generative modeling. May the Generative Force (GenForce) be with You. | https://genforce.github.io/ | [![stars](https://badgen.net/github/stars/genforce/genforce)](https://github.com/genforce/genforce)
 |[DALL-E in Pytorch](https://github.com/lucidrains/DALLE-pytorch)| Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch | N/A | [![stars](https://badgen.net/github/stars/lucidrains/DALLE-pytorch)](https://github.com/lucidrains/DALLE-pytorch)
+|[Lifespan Age Transformation Synthesis](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)| Lifespan Age Transformation Synthesis code | N/A | [![stars](https://badgen.net/github/stars/royorel/Lifespan_Age_Transformation_Synthesis)](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)
 
 #### 📃 Papers 📃
 
@@ -149,13 +150,14 @@
 
 #### 🌐 Webs 🌐
 
-* [ThisPersonDoesNotExist](http://www.thispersondoesnotexist.com/)
-* [WhichFaceIsReal](http://www.whichfaceisreal.com/)
-* [ThisRentalDoesNotExist](https://thisrentaldoesnotexist.com/)
-* [ThisCatDoesNotExist](https://thiscatdoesnotexist.com/)
-* [ThisWaifuDoesNotExist](https://www.thiswaifudoesnotexist.net/)
+* [ThisPersonDoesNotExist](http://www.thispersondoesnotexist.com)
+* [WhichFaceIsReal](http://www.whichfaceisreal.com)
+* [ThisRentalDoesNotExist](https://thisrentaldoesnotexist.com)
+* [ThisCatDoesNotExist](https://thiscatdoesnotexist.com)
+* [ThisWaifuDoesNotExist](https://www.thiswaifudoesnotexist.net)
 * [MakeMeAZombie](https://makemeazombie.com/)
 * [Multi-ingredient Pizza Image Generator](http://foodai.cs.rutgers.edu:2021)
+* [ThisFuckedUpHomerDoesNotExist](https://www.thisfuckeduphomerdoesnotexist.com)
 
 #### 😎 Awesome 😎
 
@@ -296,6 +298,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Detecting Deepfake Videos: An Analysis of Three Techniques](https://arxiv.org/pdf/2007.08517v1.pdf)
 * [OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)
 * [FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals](https://ieeexplore.ieee.org/document/9141516)
+* [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://arxiv.org/pdf/2012.09855.pdf)
 
 #### 📺 Videos 📺
 
