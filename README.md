@@ -300,6 +300,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)
 * [FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals](https://ieeexplore.ieee.org/document/9141516)
 * [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://arxiv.org/pdf/2012.09855.pdf)
+* [ID-Reveal: Identity-aware DeepFake Video Detection](https://arxiv.org/pdf/2012.02512v1.pdf)
 
 #### 📺 Videos 📺
 
