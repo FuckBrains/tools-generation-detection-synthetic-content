@@ -125,6 +125,7 @@
 |[DALL-E in Pytorch](https://github.com/lucidrains/DALLE-pytorch)| Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch | N/A | [![stars](https://badgen.net/github/stars/lucidrains/DALLE-pytorch)](https://github.com/lucidrains/DALLE-pytorch)
 |[Lifespan Age Transformation Synthesis](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)| Lifespan Age Transformation Synthesis code | N/A | [![stars](https://badgen.net/github/stars/royorel/Lifespan_Age_Transformation_Synthesis)](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)
 |[Navigan](https://github.com/yandex-research/navigan)| Navigating the GAN Parameter Space for Semantic Image Editing | N/A | [![stars](https://badgen.net/github/stars/yandex-research/navigan)](https://github.com/yandex-research/navigan)
+|[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows | https://youtu.be/LRAUJUn3EqQ | [![stars](https://badgen.net/github/stars/RameenAbdal/StyleFlow)](https://github.com/RameenAbdal/StyleFlow)
 
 #### 📃 Papers 📃
 
