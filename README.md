@@ -41,6 +41,7 @@
 [aitextgen](https://github.com/minimaxir/aitextgen) | A robust Python tool for text-based AI training and generation using GPT-2.| [Demo](https://git.io/JfuXR) | [![stars](https://badgen.net/github/stars/minimaxir/aitextgen)](https://github.com/minimaxir/aitextgen)
 [GPT-3](https://github.com/openai/gpt-3) | GPT-3: Language Models are Few-Shot Learners | N/A | [![stars](https://badgen.net/github/stars/openai/gpt-3)](https://github.com/openai/gpt-3)
 [FactGen](https://github.com/bigheiniu/FactGen) | Fact Enhanced News Generation | N/A | [![stars](https://badgen.net/github/stars/bigheiniu/FactGen)](https://github.com/bigheiniu/FactGen)
+[TextBox](https://github.com/RUCAIBox/TextBox) | TextBox is an open-source library for building text generation system | N/A | [![stars](https://badgen.net/github/stars/RUCAIBox/TextBox)](https://github.com/RUCAIBox/TextBox)
 
 #### 📃 Papers 📃
 
