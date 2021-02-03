@@ -40,6 +40,8 @@
 [Big Bird](https://bigbird.dev/) | Bird Bird uses State of the Art (SOTA) Natural Language Processing to aid your fact-checked and substantive content. | [BigBirdDemo](https://run.bigbird.dev/auth/login)| N/A
 [aitextgen](https://github.com/minimaxir/aitextgen) | A robust Python tool for text-based AI training and generation using GPT-2.| [Demo](https://git.io/JfuXR) | [![stars](https://badgen.net/github/stars/minimaxir/aitextgen)](https://github.com/minimaxir/aitextgen)
 [GPT-3](https://github.com/openai/gpt-3) | GPT-3: Language Models are Few-Shot Learners | N/A | [![stars](https://badgen.net/github/stars/openai/gpt-3)](https://github.com/openai/gpt-3)
+[FactGen](https://github.com/bigheiniu/FactGen) | Fact Enhanced News Generation | N/A | [![stars](https://badgen.net/github/stars/bigheiniu/FactGen)](https://github.com/bigheiniu/FactGen)
+[TextBox](https://github.com/RUCAIBox/TextBox) | TextBox is an open-source library for building text generation system | N/A | [![stars](https://badgen.net/github/stars/RUCAIBox/TextBox)](https://github.com/RUCAIBox/TextBox)
 
 #### 📃 Papers 📃
 
@@ -50,6 +52,8 @@
 * [DeepTingle](https://arxiv.org/pdf/1705.03557.pdf)
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 * [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf)
+* [Fact-Enhanced Synthetic News Generation](https://arxiv.org/pdf/2012.04778v1.pdf)
+* [Facts2Story: Controlling Text Generation by Key Facts](https://arxiv.org/pdf/2012.04332v1.pdf)
 
 #### 🌐 Webs 🌐
 
@@ -83,6 +87,9 @@
 [TacoTron](https://google.github.io/tacotron/) | Tacotron (/täkōˌträn/): An end-to-end speech synthesis system by Google. | [Demo](https://google.github.io/tacotron/publications/prosody_prior/index.html) | [![stars](https://badgen.net/github/stars/google/tacotron)](https://github.com/google/tacotron)
 [Sonantic](https://sonantic.io/) | Create a captivating performance using emotionally expressive text-to-speech. | [Demo](https://www.youtube.com/watch?v=WzBimNSO-U8) | N/A
 [15.ai](https://fifteen.ai/) | Natural text-to-speech synthesis with minimal data. | [Demo](https://fifteen.ai/examples) | N/A
+[Lip2Wav](https://github.com/Rudrabha/Lip2Wav) | Generate high quality speech from only lip movements. | [Demo](https://youtu.be/HziA-jmlk_4) | [![stars](https://badgen.net/github/stars/Rudrabha/Lip2Wav)](https://github.com/Rudrabha/Lip2Wav)
+[VoiceFilter](https://github.com/mindslab-ai/voicefilter) | Unofficial PyTorch implementation of Google AI's VoiceFilter system | http://swpark.me/voicefilter/ | [![stars](https://badgen.net/github/stars/mindslab-ai/voicefilter)](https://github.com/mindslab-ai/voicefilter)
+[Cotatron](https://github.com/mindslab-ai/cotatron) | Official PyTorch Implementation | https://mindslab-ai.github.io/cotatron/ |  [![stars](https://badgen.net/github/stars/mindslab-ai/cotatron)](https://github.com/mindslab-ai/cotatron)
 
 
 #### 📃 Papers 📃
@@ -93,6 +100,10 @@
 * [Score and Lyrics-free Singing Voice Generation](https://arxiv.org/pdf/1912.11747.pdf)
 * [Generating diverse and natural Text-to-Speech samples using a quantized fine-grained vae and autoregressive prosody prior](https://arxiv.org/pdf/2002.03788.pdf)
 * [Rave.dj](https://rave.dj/)
+* [Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis](https://arxiv.org/pdf/2005.08209.pdf)
+* [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/pdf/2010.05646.pdf)
+* [VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking](https://arxiv.org/pdf/1810.04826.pdf)
+* [Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data](https://arxiv.org/pdf/2005.03295.pdf)
 
 ### Generation Images
 
@@ -110,8 +121,13 @@
 [FQ-GAN](https://github.com/YangNaruto/FQ-GAN) | Official implementation of FQ-GAN | http://40.71.23.172:8888 | [![stars](https://badgen.net/github/stars/YangNaruto/FQ-GAN)](https://github.com/YangNaruto/FQ-GAN)
 |[EHM_Faces](https://github.com/colinrsmall/ehm_faces) | EHM_Faces is a machine learning project that can generate high-quality, realistic ice hockey player portraits. Primarily meant for the game Eastside Hockey Manager (EHM), this project can generate portraits either one-at-a-time or in batches (the resulting batches are called facepacks). | N/A | [![stars](https://badgen.net/github/stars/colinrsmall/ehm_faces)](https://github.com/colinrsmall/ehm_faces)
 |[Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting) | Edits the weights of a deep generative network by rewriting associative memory directly, without training data | [Demo](https://colab.research.google.com/github/davidbau/rewriting/blob/master/notebooks/rewriting-interface.ipynb) | [![stars](https://badgen.net/github/stars/davidbau/rewriting)](https://github.com/davidbau/rewriting)
+|[FaceShifter](https://github.com/mindslab-ai/faceshifter) | Unofficial PyTorch Implementation for FaceShifter | N/A | [![stars](https://badgen.net/github/stars/mindslab-ai/faceshifter)](https://github.com/mindslab-ai/faceshifter)
+|[Genforce](https://github.com/genforce/genforce) | An efficient PyTorch library for deep generative modeling. May the Generative Force (GenForce) be with You. | https://genforce.github.io/ | [![stars](https://badgen.net/github/stars/genforce/genforce)](https://github.com/genforce/genforce)
+|[DALL-E in Pytorch](https://github.com/lucidrains/DALLE-pytorch)| Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch | N/A | [![stars](https://badgen.net/github/stars/lucidrains/DALLE-pytorch)](https://github.com/lucidrains/DALLE-pytorch)
+|[Lifespan Age Transformation Synthesis](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)| Lifespan Age Transformation Synthesis code | N/A | [![stars](https://badgen.net/github/stars/royorel/Lifespan_Age_Transformation_Synthesis)](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)
+|[Navigan](https://github.com/yandex-research/navigan)| Navigating the GAN Parameter Space for Semantic Image Editing | N/A | [![stars](https://badgen.net/github/stars/yandex-research/navigan)](https://github.com/yandex-research/navigan)
+|[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows | https://youtu.be/LRAUJUn3EqQ | [![stars](https://badgen.net/github/stars/RameenAbdal/StyleFlow)](https://github.com/RameenAbdal/StyleFlow)
 |[Disco Face GAN](https://github.com/microsoft/DiscoFaceGAN) | Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning | N/A | [![stars](https://badgen.net/github/stars/microsoft/DiscoFaceGAN)](https://github.com/microsoft/DiscoFaceGAN)
-
 
 #### 📃 Papers 📃
 
@@ -130,15 +146,22 @@
 * [Improving Style-Content Disentanglement in Image-to-Image Translation](https://arxiv.org/pdf/2007.04964.pdf)
 * [Rewriting a Deep Generative Model](https://arxiv.org/pdf/2007.15646.pdf)
 * [MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network](https://arxiv.org/pdf/2010.01424.pdf)
+* [Very Deep VAEs Generalize Autoregressive Models And Can Outperform Them On Images](https://openreview.net/pdf?id=RLRXCV6DbEJ)
+* [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/pdf/1912.13457.pdf)
+* [Semantic Deep Face Models](https://studios.disneyresearch.com/app/uploads/2020/11/Semantic-Deep-Face-Models.pdf)
+* [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/pdf/2012.04781v1.pdf)
+* [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e)
 
 #### 🌐 Webs 🌐
 
-* [ThisPersonDoesNotExist](http://www.thispersondoesnotexist.com/)
-* [WhichFaceIsReal](http://www.whichfaceisreal.com/)
-* [ThisRentalDoesNotExist](https://thisrentaldoesnotexist.com/)
-* [ThisCatDoesNotExist](https://thiscatdoesnotexist.com/)
-* [ThisWaifuDoesNotExist](https://www.thiswaifudoesnotexist.net/)
-* [thispersondoesnotexist](http://www.thispersondoesnotexist.com/)
+* [ThisPersonDoesNotExist](http://www.thispersondoesnotexist.com)
+* [WhichFaceIsReal](http://www.whichfaceisreal.com)
+* [ThisRentalDoesNotExist](https://thisrentaldoesnotexist.com)
+* [ThisCatDoesNotExist](https://thiscatdoesnotexist.com)
+* [ThisWaifuDoesNotExist](https://www.thiswaifudoesnotexist.net)
+* [MakeMeAZombie](https://makemeazombie.com/)
+* [Multi-ingredient Pizza Image Generator](http://foodai.cs.rutgers.edu:2021)
+* [ThisFuckedUpHomerDoesNotExist](https://www.thisfuckeduphomerdoesnotexist.com)
 
 #### 😎 Awesome 😎
 
@@ -150,8 +173,8 @@
 
 | Name | Description | Demo | Popularity |
 | ---------- | :---------- | :---------- | :----------: |
-| [FaceSwap](https://github.com/deepfakes/faceswap) | Grover is a model for Neural Fake News -- both generation and detection. However, it probably can also be used for other generation tasks. | https://www.youtube.com/watch?v=r1jng79a5xc | [![stars](https://badgen.net/github/stars/deepfakes/faceswap)](https://github.com/deepfakes/faceswap)|
-[Face2Face](https://github.com/datitran/face2face-demo) | FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos. | N/A | [![stars](https://badgen.net/github/stars/datitran/face2face-demo)](https://github.com/datitran/face2face-demo) |
+| [FaceSwap](https://github.com/deepfakes/faceswap) | FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos. | https://www.youtube.com/watch?v=r1jng79a5xc | [![stars](https://badgen.net/github/stars/deepfakes/faceswap)](https://github.com/deepfakes/faceswap)|
+[Face2Face](https://github.com/datitran/face2face-demo) | This is a pix2pix demo that learns from facial landmarks and translates this into a face | N/A | [![stars](https://badgen.net/github/stars/datitran/face2face-demo)](https://github.com/datitran/face2face-demo) |
 [Faceswap](https://github.com/MarekKowalski/FaceSwap) | FaceSwap is an app that I have originally created as an exercise for my students in "Mathematics in Multimedia" on the Warsaw University of Technology. | N/A | [![stars](https://badgen.net/github/stars/MarekKowalski/FaceSwap)](https://github.com/MarekKowalski/FaceSwap) |
 [Faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN) | Adding Adversarial loss and perceptual loss (VGGface) to deepfakes'(reddit user) auto-encoder architecture. | https://github.com/shaoanlu/faceswap-GAN/blob/master/colab_demo/faceswap-GAN_colab_demo.ipynb | [![stars](https://badgen.net/github/stars/shaoanlu/faceswap-GAN)](https://github.com/shaoanlu/faceswap-GAN) |
 [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. | https://www.youtube.com/watch?v=um7q--QEkg4 | [![stars](https://badgen.net/github/stars/iperov/DeepFaceLab)](https://github.com/iperov/DeepFaceLab)|
@@ -160,7 +183,9 @@
 [Image Animation](https://github.com/AliaksandrSiarohin/first-order-model) | The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos.  | https://www.youtube.com/watch?v=mUfJOQKdtAk | [![stars](https://badgen.net/github/stars/AliaksandrSiarohin/first-order-model)](https://github.com/AliaksandrSiarohin/first-order-model)|
 [Avatarify](https://github.com/alievk/avatarify) | Photorealistic avatars for Skype and Zoom. Democratized. Based on First Order Motion Model..  | https://www.youtube.com/watch?v=lONuXGNqLO0 | [![stars](https://badgen.net/github/stars/alievk/avatarify)](https://github.com/alievk/avatarify)|
 [Speech driven animation](https://github.com/DinoMan/speech-driven-animation) | This library implements the end-to-end facial synthesis model.  | N/A | [![stars](https://badgen.net/github/stars/DinoMan/speech-driven-animation)](https://github.com/DinoMan/speech-driven-animation)|
-
+[Wav2Lip](https://github.com/Rudrabha/Wav2Lip) | Accurately Lip-sync Videos to Any Speech | https://bhaasha.iiit.ac.in/lipsync | [![stars](https://badgen.net/github/stars/Rudrabha/Wav2Lip)](https://github.com/Rudrabha/Wav2Lip)
+[LipGAN](https://github.com/Rudrabha/LipGAN) | Generate realistic talking faces for any human speech and face identity. | https://youtu.be/aHG6Oei8jF0 | [![stars](https://badgen.net/github/stars/Rudrabha/LipGAN)](https://github.com/Rudrabha/LipGAN)
+[Impersonator++](https://www.impersonator.org/work/impersonator-plus-plus.html) | A Unified Framework for Human Image Synthesis | https://www.impersonator.org/work/impersonator-plus-plus.html | [![stars](https://badgen.net/github/stars/iPERDance/iPERCore)](https://github.com/iPERDance/iPERCore)
 
 #### 📃 Papers 📃
 
@@ -168,6 +193,10 @@
 * [Face2Face: Real-time Face Capture and Reenactment of RGB Videos](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/CVPR2016_FF/page.html)
 * [Synthesizing Obama: Learning Lip Sync from Audio](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
 * [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf)
+* [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/pdf/2008.10010.pdf)
+* [Towards Automatic Face-to-Face Translation](https://arxiv.org/pdf/2003.00418.pdf)
+* [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/pdf/2011.15126.pdf)
+
 
 #### 🌐 Webs 🌐
 
@@ -201,6 +230,7 @@
 * [Human and Automatic Detection of Generated Text](https://arxiv.org/pdf/1911.00650.pdf)
 * [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/pdf/1909.05858.pdf)
 * [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://arxiv.org/pdf/1908.09805.pdf)
+* [Mining Dual Emotion for Fake News Detection](https://arxiv.org/pdf/1903.01728v3.pdf)
 
 ### Detection Audio
 
@@ -245,7 +275,6 @@
 [ClassNSeg](https://github.com/nii-yamagishilab/ClassNSeg) | Implementation of the paper: Multi-task Learning for Detecting and Segmenting Manipulated Facial Images and Videos (BTAS 2019). | N/A | [![stars](https://badgen.net/github/stars/nii-yamagishilab/ClassNSeg)](https://github.com/nii-yamagishilab/ClassNSeg)|
 | [fakeVideoForensics](https://github.com/next-security-lab/fakeVideoForensics) | Fake video detector | https://www.youtube.com/watch?v=8YYRT4lzQgY | [![stars](https://badgen.net/github/stars/next-security-lab/fakeVideoForensics)](https://github.com/next-security-lab/fakeVideoForensics)
 
-
 #### 📃 Papers 📃
 
 * [Exposing DeepFake Videos By Detecting Face Warping Artifacts](http://www.cs.albany.edu/~lsw/papers/cvprw19a.pdf)
@@ -273,6 +302,8 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 * [Detecting Deepfake Videos: An Analysis of Three Techniques](https://arxiv.org/pdf/2007.08517v1.pdf)
 * [OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)
 * [FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals](https://ieeexplore.ieee.org/document/9141516)
+* [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://arxiv.org/pdf/2012.09855.pdf)
+* [ID-Reveal: Identity-aware DeepFake Video Detection](https://arxiv.org/pdf/2012.02512v1.pdf)
 
 #### 📺 Videos 📺
 
@@ -283,6 +314,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 #### 😎 Awesome 😎
 
 * [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
+* [Awesome-GANS-and-Deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes)
 
 ## Misc
 
