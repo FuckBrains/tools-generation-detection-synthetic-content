@@ -110,6 +110,7 @@
 [FQ-GAN](https://github.com/YangNaruto/FQ-GAN) | Official implementation of FQ-GAN | http://40.71.23.172:8888 | [![stars](https://badgen.net/github/stars/YangNaruto/FQ-GAN)](https://github.com/YangNaruto/FQ-GAN)
 |[EHM_Faces](https://github.com/colinrsmall/ehm_faces) | EHM_Faces is a machine learning project that can generate high-quality, realistic ice hockey player portraits. Primarily meant for the game Eastside Hockey Manager (EHM), this project can generate portraits either one-at-a-time or in batches (the resulting batches are called facepacks). | N/A | [![stars](https://badgen.net/github/stars/colinrsmall/ehm_faces)](https://github.com/colinrsmall/ehm_faces)
 |[Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting) | Edits the weights of a deep generative network by rewriting associative memory directly, without training data | [Demo](https://colab.research.google.com/github/davidbau/rewriting/blob/master/notebooks/rewriting-interface.ipynb) | [![stars](https://badgen.net/github/stars/davidbau/rewriting)](https://github.com/davidbau/rewriting)
+|[Disco Face GAN](https://github.com/microsoft/DiscoFaceGAN) | Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning | N/A | [![stars](https://badgen.net/github/stars/microsoft/DiscoFaceGAN)](https://github.com/microsoft/DiscoFaceGAN)
 
 
 #### 📃 Papers 📃
