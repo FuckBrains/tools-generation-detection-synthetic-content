@@ -151,6 +151,7 @@
 * [Semantic Deep Face Models](https://studios.disneyresearch.com/app/uploads/2020/11/Semantic-Deep-Face-Models.pdf)
 * [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/pdf/2012.04781v1.pdf)
 * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e)
+* [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/pdf/2102.02766.pdf)
 
 #### 🌐 Webs 🌐
 
