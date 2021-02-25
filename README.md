@@ -123,11 +123,11 @@
 |[Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting) | Edits the weights of a deep generative network by rewriting associative memory directly, without training data | [Demo](https://colab.research.google.com/github/davidbau/rewriting/blob/master/notebooks/rewriting-interface.ipynb) | [![stars](https://badgen.net/github/stars/davidbau/rewriting)](https://github.com/davidbau/rewriting)
 |[FaceShifter](https://github.com/mindslab-ai/faceshifter) | Unofficial PyTorch Implementation for FaceShifter | N/A | [![stars](https://badgen.net/github/stars/mindslab-ai/faceshifter)](https://github.com/mindslab-ai/faceshifter)
 |[Genforce](https://github.com/genforce/genforce) | An efficient PyTorch library for deep generative modeling. May the Generative Force (GenForce) be with You. | https://genforce.github.io/ | [![stars](https://badgen.net/github/stars/genforce/genforce)](https://github.com/genforce/genforce)
-|[DALL-E in Pytorch](https://github.com/lucidrains/DALLE-pytorch)| Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch | N/A | [![stars](https://badgen.net/github/stars/lucidrains/DALLE-pytorch)](https://github.com/lucidrains/DALLE-pytorch)
 |[Lifespan Age Transformation Synthesis](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)| Lifespan Age Transformation Synthesis code | N/A | [![stars](https://badgen.net/github/stars/royorel/Lifespan_Age_Transformation_Synthesis)](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)
 |[Navigan](https://github.com/yandex-research/navigan)| Navigating the GAN Parameter Space for Semantic Image Editing | N/A | [![stars](https://badgen.net/github/stars/yandex-research/navigan)](https://github.com/yandex-research/navigan)
 |[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows | https://youtu.be/LRAUJUn3EqQ | [![stars](https://badgen.net/github/stars/RameenAbdal/StyleFlow)](https://github.com/RameenAbdal/StyleFlow)
 |[Disco Face GAN](https://github.com/microsoft/DiscoFaceGAN) | Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning | N/A | [![stars](https://badgen.net/github/stars/microsoft/DiscoFaceGAN)](https://github.com/microsoft/DiscoFaceGAN)
+|[DALL·E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E | N/A | [![stars](https://badgen.net/github/stars/openai/DALL-E)](https://github.com/openai/DALL-E)
 
 #### 📃 Papers 📃
 
@@ -151,6 +151,7 @@
 * [Semantic Deep Face Models](https://studios.disneyresearch.com/app/uploads/2020/11/Semantic-Deep-Face-Models.pdf)
 * [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/pdf/2012.04781v1.pdf)
 * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e)
+* [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)
 * [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/pdf/2102.02766.pdf)
 
 #### 🌐 Webs 🌐
