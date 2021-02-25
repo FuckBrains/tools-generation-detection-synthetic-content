@@ -153,6 +153,7 @@
 * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e)
 * [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)
 * [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/pdf/2102.02766.pdf)
+* [Image Completion via Inference in Deep Generative Models](https://arxiv.org/pdf/2102.12037.pdf)
 
 #### 🌐 Webs 🌐
 
