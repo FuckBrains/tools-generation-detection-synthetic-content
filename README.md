@@ -128,6 +128,7 @@
 |[StyleFlow](https://github.com/RameenAbdal/StyleFlow) | Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows | https://youtu.be/LRAUJUn3EqQ | [![stars](https://badgen.net/github/stars/RameenAbdal/StyleFlow)](https://github.com/RameenAbdal/StyleFlow)
 |[Disco Face GAN](https://github.com/microsoft/DiscoFaceGAN) | Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning | N/A | [![stars](https://badgen.net/github/stars/microsoft/DiscoFaceGAN)](https://github.com/microsoft/DiscoFaceGAN)
 |[DALL·E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E | N/A | [![stars](https://badgen.net/github/stars/openai/DALL-E)](https://github.com/openai/DALL-E)
+|[encoder4editing](https://github.com/omertov/encoder4editing) | Official implementation of "Desinging an Encoder for StyleGAN Image Manipulation" | [Demo](http://colab.research.google.com/github/omertov/encoder4editing/blob/main/notebooks/inference_playground.ipynb) | [![stars](https://badgen.net/github/stars/omertov/encoder4editing)](https://github.com/omertov/encoder4editing)
 
 #### 📃 Papers 📃
 
