@@ -265,6 +265,7 @@
 #### 📃 Papers 📃
 
 * [Detecting Photoshopped Faces by Scripting Photoshop](https://arxiv.org/pdf/1906.05856.pdf)
+* [Exposing GAN-generated Faces Using Inconsistent Corneal Specular Highlights](https://arxiv.org/pdf/2009.11924.pdf)
 
 ### Detection Videos
 
@@ -278,6 +279,7 @@
 [Capsule-Forensics-v2](https://github.com/nii-yamagishilab/Capsule-Forensics-v2) | Implementation of the paper: Use of a Capsule Network to Detect Fake Images and Videos. | N/A | [![stars](https://badgen.net/github/stars/nii-yamagishilab/Capsule-Forensics-v2)](https://github.com/nii-yamagishilab/Capsule-Forensics-v2)|
 [ClassNSeg](https://github.com/nii-yamagishilab/ClassNSeg) | Implementation of the paper: Multi-task Learning for Detecting and Segmenting Manipulated Facial Images and Videos (BTAS 2019). | N/A | [![stars](https://badgen.net/github/stars/nii-yamagishilab/ClassNSeg)](https://github.com/nii-yamagishilab/ClassNSeg)|
 | [fakeVideoForensics](https://github.com/next-security-lab/fakeVideoForensics) | Fake video detector | https://www.youtube.com/watch?v=8YYRT4lzQgY | [![stars](https://badgen.net/github/stars/next-security-lab/fakeVideoForensics)](https://github.com/next-security-lab/fakeVideoForensics)
+| [DeepFake-o-meter](http://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/) | An open platform integrating state-of-the-art DeepFake detection methods | https://youtu.be/Om4-bE9a61I | N/A
 
 #### 📃 Papers 📃
 
