@@ -322,6 +322,7 @@ an overview](https://arxiv.org/pdf/2001.06564.pdf)
 
 * [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
 * [Awesome-GANS-and-Deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes)
+* [Awesome-Face-Forgery-Generation-and-Detection](https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection)
 
 ## Misc
 
