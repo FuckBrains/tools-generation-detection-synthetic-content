@@ -156,6 +156,7 @@
 * [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/pdf/2102.02766.pdf)
 * [Image Completion via Inference in Deep Generative Models](https://arxiv.org/pdf/2102.12037.pdf)
 * [Generating images with sparse representations](https://arxiv.org/pdf/2103.03841.pdf)
+* [Paint by Word](https://arxiv.org/pdf/2103.10951.pdf)
 
 #### 🌐 Webs 🌐
 
